@@ -1,0 +1,8 @@
+program,last_enrolled,forecast_demand,avg_fill_rate,recommended_intake_next_year,academic 2026
+TAM,93,93,0.93,100,2569
+IHM,70,70,0.7,84,2569
+HPM,66,39,0.46,65,2568
+TRM,66,34,0.71,52,2568
+BIZ,27,30,0.46,32,2569
+BIM,22,22,0.44,26,2566
+SIM,11,11,0.22,13,2565

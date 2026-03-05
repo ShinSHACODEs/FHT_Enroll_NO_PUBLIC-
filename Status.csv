@@ -1,0 +1,628 @@
+﻿STUDENT_ID,ENT_METHOD_DESC,Graduate from,Faculty,MAJOR,MAJOR_1,NATIONALITY,School,STATUS_DESC_THAI,TCAS,TITLE_NAME_ENG,จังหวัด,ADMIT_YEAR,gender,fullname_major2,fullname_major
+6630113021,AEC,ในประเทศ,FHT,BIM,SIM_BIM,Thai,วิทยาลัยเทคโนโลยีทักษิณาบริหารธุรกิจ,ไม่มาลงทะเบียน (พ้นสภาพฯ),TCAS 4,Miss,กรุงเทพ,2566,Female,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6530111026,AEC,ในประเทศ,FHT,HPM,HPM,Thai,ศูนย์การเรียนวิถีธรรม,กำลังศึกษา,TCAS 4,Mr.,ภูเก็ต,2565,Male,Hospitality Management,Hospitality Management
+6430113011,AEC,ในประเทศ,FHT,SIM,SIM_BIM,Thai,ไม่มีข้อมูล,กำลังศึกษา,TCAS 4,Mr.,ภูเก็ต,2564,Male,Service Innovation Management and Business Innovation Management,Service Innovation Management
+6530112045,AEC,ในประเทศ,FHT,TRM,TRM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,ให้พักการศึกษา,TCAS 4,Miss,ภูเก็ต,2565,Female,Tourism Management,Tourism Management
+6530112044,AEC,ในประเทศ,FHT,TRM,TRM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,ลาพักการศึกษา,TCAS 4,Miss,ภูเก็ต,2565,Female,Tourism Management,Tourism Management
+6230112089,AEC,ในประเทศ,FHT,TRM,TRM,Thai,วรนารีเฉลิม สงขลา,กำลังศึกษา,TCAS 5,Miss,สงขลา,2562,Female,Tourism Management,Tourism Management
+6830112089,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้ (ปวช.3),ในประเทศ,FHT,TAM,TAM,Thai,วิทยาลัยเทคนิคภูเก็ต,รอรายงานตัว,TCAS 2,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6730113019,Admission,ในประเทศ,FHT,BIM,BIM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,โอนย้าย (พ้นสภาพฯ),TCAS 3,Miss,ภูเก็ต,2567,Female,Business Innovation Management,Business Innovation Management
+6730113018,Admission,ในประเทศ,FHT,BIM,BIM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,กำลังศึกษา,TCAS 3,Miss,ภูเก็ต,2567,Female,Business Innovation Management,Business Innovation Management
+6730113016,Admission,ในประเทศ,FHT,BIM,BIM,Thai,ดีบุกพังงาวิทยายน,ลาออก (พ้นสภาพฯ),TCAS 3,Miss,พังงา,2567,Female,Business Innovation Management,Business Innovation Management
+6730113020,Admission,ในประเทศ,FHT,BIM,BIM,Thai,ภูเก็ตวิทยาลัย,กำลังศึกษา,TCAS 3,Miss,ภูเก็ต,2567,Female,Business Innovation Management,Business Innovation Management
+6730113017,Admission,ในประเทศ,FHT,BIM,BIM,Thai,สตรีภูเก็ต,โอนย้าย (พ้นสภาพฯ),TCAS 3,Miss,ภูเก็ต,2567,Female,Business Innovation Management,Business Innovation Management
+6730113021,Admission,ในประเทศ,FHT,BIM,BIM,Thai,สตรีภูเก็ต,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 3,Miss,ภูเก็ต,2567,Female,Business Innovation Management,Business Innovation Management
+6630113020,Admission,ในประเทศ,FHT,BIM,SIM_BIM,Thai,ไม่มีข้อมูล,โอนย้าย (พ้นสภาพฯ),TCAS 3,Miss,ภูเก็ต,2566,Female,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6630113019,Admission,ในประเทศ,FHT,BIM,SIM_BIM,Thai,ไม่มีข้อมูล,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 3,Mr.,ภูเก็ต,2566,Male,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6530113020,Admission,ในประเทศ,FHT,BIM,SIM_BIM,Thai,สตรีราชินูทิศ,กำลังศึกษา,TCAS 3,Miss,หนองคาย,2565,Female,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6530113021,Admission,ในประเทศ,FHT,BIM,SIM_BIM,Thai,สวนกุหลาบวิทยาลัย ชลบุรี,กำลังศึกษา,TCAS 3,Miss,ชลบุรี,2565,Female,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6830113025,Admission,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,เทพมิตรศึกษา,รอรายงานตัว,TCAS 3,Miss,สุราษฎร์ธานี,2568,Female,Business Innovation Management,Business Innovation Management
+6830113026,Admission,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,กะทู้วิทยา,รอรายงานตัว,TCAS 3,Miss,ภูเก็ต,2568,Female,Business Innovation Management,Business Innovation Management
+6830113027,Admission,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,วรนารีเฉลิม จังหวัดสงขลา,รอรายงานตัว,TCAS 3,Mr.,สงขลา,2568,Male,Business Innovation Management,Business Innovation Management
+6830113024,Admission,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,สุรนารีวิทยา,รอรายงานตัว,TCAS 3,Miss,นครราชสีมา,2568,Female,Business Innovation Management,Business Innovation Management
+6830113028,Admission,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,อิสมาอีลียะห์มูลนิธิ,รอรายงานตัว,TCAS 3,Miss,ตรัง,2568,Female,Business Innovation Management,Business Innovation Management
+6730111056,Admission,ในประเทศ,FHT,HPM,HPM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,กำลังศึกษา,TCAS 3,Mr.,ภูเก็ต,2567,Male,Hospitality Management,Hospitality Management
+6730111050,Admission,ในประเทศ,FHT,HPM,HPM,Thai,เตรียมอุดมศึกษาภาคใต้,กำลังศึกษา,TCAS 3,Mr.,นครศรีธรรมราช,2567,Male,Hospitality Management,Hospitality Management
+6730111058,Admission,ในประเทศ,FHT,HPM,HPM,Thai,เบญจมราชูทิศ,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 3,Miss,นครศรีธรรมราช,2567,Female,Hospitality Management,Hospitality Management
+6730111055,Admission,ในประเทศ,FHT,HPM,HPM,Thai,พระแม่สกลสงเคราะห์,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 3,Miss,นนทบุรี,2567,Female,Hospitality Management,Hospitality Management
+6730111052,Admission,ในประเทศ,FHT,HPM,HPM,Thai,พิมานพิทยาสรรค์,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 3,Miss,สตูล,2567,Female,Hospitality Management,Hospitality Management
+6330111036,Admission,ในประเทศ,FHT,HPM,HPM,Thai,ภูเก็ตวิทยาลัย,กำลังศึกษา,TCAS 3,Mr.,ภูเก็ต,2563,Male,Hospitality Management,Hospitality Management
+6430111027,Admission,ในประเทศ,FHT,HPM,HPM,Thai,ภูเก็ตวิทยาลัย,กำลังศึกษา,TCAS 3,Mr.,ภูเก็ต,2564,Male,Hospitality Management,Hospitality Management
+6730111048,Admission,ในประเทศ,FHT,HPM,HPM,Thai,ภูเก็ตวิทยาลัย,ลาออก (พ้นสภาพฯ),TCAS 3,Miss,ภูเก็ต,2567,Female,Hospitality Management,Hospitality Management
+6130111048,Admission,ในประเทศ,FHT,HPM,HPM,Thai,มหาไถ่ศึกษาเลย,ไม่ได้ลงทะเบียนเรียน (พ้นสภาพฯ),TCAS 4,Miss,เลย,2561,Female,Hospitality Management,Hospitality Management
+6530111018,Admission,ในประเทศ,FHT,HPM,HPM,Thai,มหาวชิราวุธ สงขลา,กำลังศึกษา,TCAS 3,Miss,สงขลา,2565,Female,Hospitality Management,Hospitality Management
+6730111053,Admission,ในประเทศ,FHT,HPM,HPM,Thai,มหาวชิราวุธ สงขลา,กำลังศึกษา,TCAS 3,Mr.,สงขลา,2567,Male,Hospitality Management,Hospitality Management
+6730111057,Admission,ในประเทศ,FHT,HPM,HPM,Thai,ศรีวิไลวิทยา,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 3,Miss,บึงกาฬ,2567,Female,Hospitality Management,Hospitality Management
+6730111051,Admission,ในประเทศ,FHT,HPM,HPM,Thai,สตรีนนทบุรี,กำลังศึกษา,TCAS 3,Miss,นนทบุรี,2567,Female,Hospitality Management,Hospitality Management
+6730111070,Admission,ในประเทศ,FHT,HPM,HPM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 3,Miss,ภูเก็ต,2567,Female,Hospitality Management,Hospitality Management
+6130111034,Admission,ในประเทศ,FHT,HPM,HPM,Thai,สตรีสมุทรปราการ,รักษาสถานภาพ,TCAS 3,Miss,สุมทรปราการ,2561,Female,Hospitality Management,Hospitality Management
+6730111054,Admission,ในประเทศ,FHT,HPM,HPM,Thai,สภาราชินี จังหวัดตรัง,กำลังศึกษา,TCAS 3,Miss,ตรัง,2567,Female,Hospitality Management,Hospitality Management
+6530111021,Admission,ในประเทศ,FHT,HPM,HPM,Thai,สวัสดิ์บวร,กำลังศึกษา,TCAS 3,Miss,"	สงขลา",2565,Female,Hospitality Management,Hospitality Management
+6730111049,Admission,ในประเทศ,FHT,HPM,HPM,Thai,หนองบัวพิทยาคาร,กำลังศึกษา,TCAS 3,Miss,หนองบัวลำภู,2567,Female,Hospitality Management,Hospitality Management
+6330111038,Admission,ในประเทศ,FHT,HPM,HPM,Thai,หาดใหญ่วิทยาลัย 2,กำลังศึกษา,TCAS 3,Mr.,สงขลา,2563,Male,Hospitality Management,Hospitality Management
+6830111075,Admission,ในประเทศ,FHT,IHM,IHM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,รอรายงานตัว,TCAS 3,Miss,ภูเก็ต,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111070,Admission,ในประเทศ,FHT,IHM,IHM,Thai,เตรียมอุดมศึกษาภาคใต้,รอรายงานตัว,TCAS 3,Miss,นครศรีธรรมราช,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111066,Admission,ในประเทศ,FHT,IHM,IHM,Thai,เบญจมราชานุสรณ์,รอรายงานตัว,TCAS 2,Mr.,นนทบุรี,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111069,Admission,ในประเทศ,FHT,IHM,IHM,Thai,เบญจมราชูทิศ,รอรายงานตัว,TCAS 3,Miss,นครศรีธรรมราช,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111067,Admission,ในประเทศ,FHT,IHM,IHM,Thai,บางกะปิ,รอรายงานตัว,TCAS 3,Mr.,กรุงเทพมหานคร,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111071,Admission,ในประเทศ,FHT,IHM,IHM,Thai,ภูเก็ตวิทยาลัย,รอรายงานตัว,TCAS 3,Miss,ภูเก็ต,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111072,Admission,ในประเทศ,FHT,IHM,IHM,Thai,สตรีภูเก็ต,รอรายงานตัว,TCAS 3,Mr.,ภูเก็ต,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111068,Admission,ในประเทศ,FHT,IHM,IHM,Thai,สิงห์บุรี,รอรายงานตัว,TCAS 3,Miss,สิงห์บุรี,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111073,Admission,ในประเทศ,FHT,IHM,IHM,Thai,หาดใหญ่รัฐประชาสรรค์,รอรายงานตัว,TCAS 3,Miss,สงขลา,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111074,Admission,ในประเทศ,FHT,IHM,IHM,Thai,หาดใหญ่วิทยาลัยสมบูรณ์กุลกันยา,รอรายงานตัว,TCAS 3,Mr.,สงขลา,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6430113010,Admission,ในประเทศ,FHT,SIM,SIM_BIM,Thai,ขจรเกียรติศึกษา,กำลังศึกษา,TCAS 3,Miss,ภูเก็ต,2564,Female,Service Innovation Management and Business Innovation Management,Service Innovation Management
+6330113006,Admission,ในประเทศ,FHT,SIM,SIM_BIM,Thai,ภูเก็ตไทยหัวอาเซียนวิทยา,กำลังศึกษา,TCAS 3,Mr.,ภูเก็ต,2563,Male,Service Innovation Management and Business Innovation Management,Service Innovation Management
+6830112097,Admission,ในประเทศ,FHT,TAM,TAM,Thai,เดชะปัตตนยานุกูล,รอรายงานตัว,TCAS 3,Miss,ปัตตานี,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112091,Admission,ในประเทศ,FHT,TAM,TAM,Thai,บ้านตาขุนวิทยา,รอรายงานตัว,TCAS 3,Mr.,สุราษฎร์ธานี,2568,Male,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112095,Admission,ในประเทศ,FHT,TAM,TAM,Thai,พิมานพิทยาสรรค์,รอรายงานตัว,TCAS 3,Miss,สตูล,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112093,Admission,ในประเทศ,FHT,TAM,TAM,Thai,มัธยมจิตจัณ,รอรายงานตัว,TCAS 3,Miss,สงขลา,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112096,Admission,ในประเทศ,FHT,TAM,TAM,Thai,วรนารีเฉลิม จังหวัดสงขลา,รอรายงานตัว,TCAS 3,Miss,สงขลา,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112090,Admission,ในประเทศ,FHT,TAM,TAM,Thai,ศรีสะเกษวิทยาลัย,รอรายงานตัว,TCAS 3,Miss,ศรีสะเกษ,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112094,Admission,ในประเทศ,FHT,TAM,TAM,Thai,สามมุกคริสเตียนวิทยา,รอรายงานตัว,TCAS 3,Mr.,ชลบุรี,2568,Male,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112092,Admission,ในประเทศ,FHT,TAM,TAM,Thai,สายบุรีแจ้งประชาคาร,รอรายงานตัว,TCAS 3,Miss,ปัตตานี,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6730112058,Admission,ในประเทศ,FHT,TRM,TRM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,กำลังศึกษา,TCAS 3,Mr.,ภูเก็ต,2567,Male,Tourism Management,Tourism Management
+6630112065,Admission,ในประเทศ,FHT,TRM,TRM,Thai,เมืองกระบี่,กำลังศึกษา,TCAS 3,Miss,กระบี่,2566,Female,Tourism Management,Tourism Management
+6130112116,Admission,ในประเทศ,FHT,TRM,TRM,Thai,เมืองถลาง,ไม่ได้ลงทะเบียนเรียน (พ้นสภาพฯ),TCAS 3,Miss,ภูเก็ต,2561,Female,Tourism Management,Tourism Management
+6630112078,Admission,ในประเทศ,FHT,TRM,TRM,Thai,แสงทองวิทยา,ไม่ได้ลงทะเบียนเรียน (พ้นสภาพฯ),TCAS 3,Mr.,สงขลา,2566,Male,Tourism Management,Tourism Management
+6630112064,Admission,ในประเทศ,FHT,TRM,TRM,Thai,กุดชุมวิทยาคม,กำลังศึกษา,TCAS 3,Miss,ยโสธร,2566,Female,Tourism Management,Tourism Management
+6630112067,Admission,ในประเทศ,FHT,TRM,TRM,Thai,ดาวรุ่งวิทยา,ตกออก (พ้นสภาพฯ),TCAS 3,Miss,ภูเก็ต,2566,Female,Tourism Management,Tourism Management
+6630112063,Admission,ในประเทศ,FHT,TRM,TRM,Thai,"ตะกั่วป่า ""เสนานุกูล""",กำลังศึกษา,TCAS 3,Miss,พังงา,2566,Female,Tourism Management,Tourism Management
+6730112055,Admission,ในประเทศ,FHT,TRM,TRM,Thai,ตัรบียะห์อิสลามียะห์,ลาออก (พ้นสภาพฯ),TCAS 3,Miss,พังงา,2567,Female,Tourism Management,Tourism Management
+6630112077,Admission,ในประเทศ,FHT,TRM,TRM,Thai,ทุ่งสง,กำลังศึกษา,TCAS 3,Miss,นครศรีธรรมราช,2566,Female,Tourism Management,Tourism Management
+6630112069,Admission,ในประเทศ,FHT,TRM,TRM,Thai,ธรรมโฆสิต,กำลังศึกษา,TCAS 3,Miss,ปัตตานี,2566,Female,Tourism Management,Tourism Management
+6730112052,Admission,ในประเทศ,FHT,TRM,TRM,Thai,นวมินทราชินูทิศ บดินทรเดชา,กำลังศึกษา,TCAS 3,Mr.,กรุงเทพมหานคร,2567,Male,Tourism Management,Tourism Management
+6730112053,Admission,ในประเทศ,FHT,TRM,TRM,Thai,บ้านนาสาร,กำลังศึกษา,TCAS 3,Miss,สุราษฎร์ธานี,2567,Female,Tourism Management,Tourism Management
+6530112042,Admission,ในประเทศ,FHT,TRM,TRM,Thai,บำรุงอิสลาม,กำลังศึกษา,TCAS 3,Mr.,นราธิวาส,2565,Male,Tourism Management,Tourism Management
+6730112057,Admission,ในประเทศ,FHT,TRM,TRM,Thai,พระแสงวิทยา,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 3,Mr.,สุราษฎร์ธานี,2567,Male,Tourism Management,Tourism Management
+6430112030,Admission,ในประเทศ,FHT,TRM,TRM,Thai,พิชัยรัตนาคาร,ไม่ได้ลงทะเบียนเรียน (พ้นสภาพฯ),TCAS 3,Miss,ระนอง,2564,Female,Tourism Management,Tourism Management
+6630112066,Admission,ในประเทศ,FHT,TRM,TRM,Thai,พีระยานาวินคลองหินวิทยา,กำลังศึกษา,TCAS 3,Miss,ปัตตานี,2566,Female,Tourism Management,Tourism Management
+6730112059,Admission,ในประเทศ,FHT,TRM,TRM,Thai,ภูเก็ตไทยหัวอาเซียนวิทยา,กำลังศึกษา,TCAS 3,Miss,ภูเก็ต,2567,Female,Tourism Management,Tourism Management
+6530112040,Admission,ในประเทศ,FHT,TRM,TRM,Thai,ภูเก็ตวิทยาลัย,กำลังศึกษา,TCAS 3,Miss,ภูเก็ต,2565,Female,Tourism Management,Tourism Management
+6730112061,Admission,ในประเทศ,FHT,TRM,TRM,Thai,สตรีนครสวรรค์,กำลังศึกษา,TCAS 3,Mr.,นครสวรรค์,2567,Male,Tourism Management,Tourism Management
+6630112059,Admission,ในประเทศ,FHT,TRM,TRM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 3,Miss,ภูเก็ต,2566,Female,Tourism Management,Tourism Management
+6630112062,Admission,ในประเทศ,FHT,TRM,TRM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 3,Miss,ภูเก็ต,2566,Female,Tourism Management,Tourism Management
+6730112054,Admission,ในประเทศ,FHT,TRM,TRM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 3,Miss,ภูเก็ต,2567,Female,Tourism Management,Tourism Management
+6730112056,Admission,ในประเทศ,FHT,TRM,TRM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 3,Miss,ภูเก็ต,2567,Female,Tourism Management,Tourism Management
+6730112062,Admission,ในประเทศ,FHT,TRM,TRM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 3,Mr.,ภูเก็ต,2567,Male,Tourism Management,Tourism Management
+6630112070,Admission,ในประเทศ,FHT,TRM,TRM,Thai,สมุทรสาครวุฒิชัย,กำลังศึกษา,TCAS 3,Miss,สมุทรสาคร,2566,Female,Tourism Management,Tourism Management
+6630112061,Admission,ในประเทศ,FHT,TRM,TRM,Thai,สาธิตเทศบาลวัดเพชรจริก,กำลังศึกษา,TCAS 3,Miss,นครศรีธรรมราช,2566,Female,Tourism Management,Tourism Management
+6630112068,Admission,ในประเทศ,FHT,TRM,TRM,Thai,สุราษฎร์ธานี,ตกออก (พ้นสภาพฯ),TCAS 3,Mr.,สุราษฎร์ธานี,2566,Male,Tourism Management,Tourism Management
+6730112060,Admission,ในประเทศ,FHT,TRM,TRM,Thai,หาดใหญ่วิทยาลัย,กำลังศึกษา,TCAS 3,Miss,สงขลา,2567,Female,Tourism Management,Tourism Management
+6630112060,Admission,ในประเทศ,FHT,TRM,TRM,Thai,อุดรพิทยานุกูล,กำลังศึกษา,TCAS 3,Miss,อุดรธานี,2566,Female,Tourism Management,Tourism Management
+6730113024,AEC,ในประเทศ,FHT,BIM,BIM,Thai,วิทยาลัยเทคนิก พังงา เขต 2,ไม่มาลงทะเบียน (พ้นสภาพฯ),TCAS 4,Mr.,ภูเก็ต,2567,Male,Business Innovation Management,Business Innovation Management
+6530113024,AEC,ในประเทศ,FHT,BIM,SIM_BIM,Thai,วิทยาลัยอาชีวศึกษาภูเก็ต,กำลังศึกษา,TCAS 4,Mr.,ภูเก็ต,2565,Male,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6730111061,AEC,ในประเทศ,FHT,HPM,HPM,Thai,ภูเก็ตวิทยาลัย,ตกออก (พ้นสภาพฯ),TCAS 4,Mr.,ภูเก็ต,2567,Male,Hospitality Management,Hospitality Management
+6730111062,AEC,ในประเทศ,FHT,HPM,HPM,Thai,มุสลิมวิทยาภูเก็ต,โอนย้าย (พ้นสภาพฯ),TCAS 4,Miss,ภูเก็ต,2567,Female,Hospitality Management,Hospitality Management
+6730111066,AEC,ในประเทศ,FHT,HPM,HPM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 4,Miss,ภูเก็ต,2567,Female,Hospitality Management,Hospitality Management
+6730111060,AEC,ในประเทศ,FHT,HPM,HPM,Thai,อำมาตย์พานิชนุกูล,กำลังศึกษา,TCAS 4,Miss,กระบี่,2567,Female,Hospitality Management,Hospitality Management
+6730112069,AEC,ในประเทศ,FHT,TRM,TRM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,กำลังศึกษา,TCAS 4,Miss,ภูเก็ต,2567,Female,Tourism Management,Tourism Management
+6630112073,AEC,ในประเทศ,FHT,TRM,TRM,Thai,นะห์ฏอตุลสูบาน,กำลังศึกษา,TCAS 4,Mr.,นราธิวาส,2566,Male,Tourism Management,Tourism Management
+6730112064,AEC,ในประเทศ,FHT,TRM,TRM,Thai,มุสลิมวิทยาภูเก็ต,ไม่ได้ลงทะเบียนเรียน (พ้นสภาพฯ),TCAS 4,Mr.,ภูเก็ต,2567,Male,Tourism Management,Tourism Management
+6730112071,AEC,ในประเทศ,FHT,TRM,TRM,Thai,มุสลิมวิทยาภูเก็ต,ตกออก (พ้นสภาพฯ),TCAS 4,Miss,ภูเก็ต,2567,Female,Tourism Management,Tourism Management
+6630112071,AEC,ในประเทศ,FHT,TRM,TRM,Thai,วิทยาลัยเทคนิคกระบี่,ตกออก (พ้นสภาพฯ),TCAS 4,Mr.,กระบี่,2566,Male,Tourism Management,Tourism Management
+6730112063,AEC,ในประเทศ,FHT,TRM,TRM,Thai,ศรีนครมูลนิธิ,ตกออก (พ้นสภาพฯ),TCAS 4,Miss,สงขลา,2567,Female,Tourism Management,Tourism Management
+6630112074,AEC,ในประเทศ,FHT,TRM,TRM,Thai,ศูนย์การเรียนปัญาสภิวัฒน์ อุดรธานี,กำลังศึกษา,TCAS 4,Miss,อุดรธานี,2566,Female,Tourism Management,Tourism Management
+6630112072,AEC,ในประเทศ,FHT,TRM,TRM,Thai,สามัคคีวิทยาคม,กำลังศึกษา,TCAS 4,Mr.,เชียงราย,2566,Male,Tourism Management,Tourism Management
+6730111071,BCIS Phuket International,ในประเทศ,FHT,HPM,HPM,FRENCH,BCIS International School,ลาออก (พ้นสภาพฯ),เทอม 2,Miss,ภูเก็ต,2567,Female,Hospitality Management,Hospitality Management
+6230111064,MOU Guokai,ต่างประเทศ,FHT,HPM,HPM,Chinese,"Guokai Education Group, People's Republic of China (GKEG)",กำลังศึกษา,MOU,Mr.,China,2562,Male,Hospitality Management,Hospitality Management
+6430111036,MOU Guokai,ต่างประเทศ,FHT,HPM,HPM,Chinese,"Guokai Education Group, People's Republic of China (GKEG)",กำลังศึกษา,MOU,Mr.,China,2564,Male,Hospitality Management,Hospitality Management
+6630111026,MOU Hermes,ต่างประเทศ,FHT,HPM,HPM,Chinese,Tianjin Senior Middle School,กำลังศึกษา,TCAS 5,Mr.,China,2566,Male,Hospitality Management,Hospitality Management
+6630112051,MOU Hermes,ต่างประเทศ,FHT,TRM,TRM,Chinese,Tuquan No.1 High School,กำลังศึกษา,TCAS 5,Miss,China,2566,Female,Tourism Management,Tourism Management
+6830112082,MOU JCFL,ต่างประเทศ,FHT,TAM,TAM,Japanese,Japan College of Foreign Languages,รอรายงานตัว,นอกรอบ,Miss,Japan,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112083,MOU JCFL,ต่างประเทศ,FHT,TAM,TAM,Japanese,Japan College of Foreign Languages,รอรายงานตัว,นอกรอบ,Mr.,Japan,2568,Male,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6630112048,MOU JCFL 1+3,ต่างประเทศ,FHT,TRM,TRM,Japanese,Japan College of Foreign Languages,ลาออก (พ้นสภาพฯ),TCAS 5,Miss,Japan,2566,Female,Tourism Management,Tourism Management
+6630111022,MOU JCFL 2+2,ต่างประเทศ,FHT,HPM,HPM,Japanese,Japan College of Foreign Languages,กำลังศึกษา,TCAS 5,Mr.,Japan,2566,Male,Hospitality Management,Hospitality Management
+6630112044,MOU JCFL 2+2,ต่างประเทศ,FHT,TRM,TRM,Japanese,Japan College of Foreign Languages,กำลังศึกษา,TCAS 5,Miss,Japan,2566,Female,Tourism Management,Tourism Management
+6630112045,MOU JCFL 2+2,ต่างประเทศ,FHT,TRM,TRM,Japanese,Japan College of Foreign Languages,กำลังศึกษา,TCAS 5,Miss,Japan,2566,Female,Tourism Management,Tourism Management
+6630112046,MOU JCFL 2+2,ต่างประเทศ,FHT,TRM,TRM,Japanese,Japan College of Foreign Languages,กำลังศึกษา,TCAS 5,Miss,Japan,2566,Female,Tourism Management,Tourism Management
+6630112047,MOU JCFL 2+2,ต่างประเทศ,FHT,TRM,TRM,Japanese,Japan College of Foreign Languages,กำลังศึกษา,TCAS 5,Miss,Japan,2566,Female,Tourism Management,Tourism Management
+6730112045,MOU JCFL 2+2,ต่างประเทศ,FHT,TRM,TRM,Japanese,Japan College of Foreign Languages,กำลังศึกษา,TCAS 5,Miss,Japan,2567,Female,Tourism Management,Tourism Management
+6730112046,MOU JCFL 2+2,ต่างประเทศ,FHT,TRM,TRM,Japanese,Japan College of Foreign Languages,กำลังศึกษา,TCAS 5,Miss,Japan,2567,Female,Tourism Management,Tourism Management
+6730112047,MOU JCFL 2+2,ต่างประเทศ,FHT,TRM,TRM,Japanese,Japan College of Foreign Languages,กำลังศึกษา,TCAS 5,Miss,Japan,2567,Female,Tourism Management,Tourism Management
+6730111069,MOU SICHUAN,ต่างประเทศ,FHT,HPM,HPM,Chinese,Weifeng Shagyuan Senior Middle School,กำลังศึกษา,เทอม 2,Mr.,China,2567,Male,Hospitality Management,Hospitality Management
+6730111063,MOU SICHUAN,ต่างประเทศ,FHT,HPM,HPM,Chinese,Yunnan Kunming Girl's High School,กำลังศึกษา,TCAS 5,Miss,China,2567,Female,Hospitality Management,Hospitality Management
+6730112065,MOU SICHUAN,ต่างประเทศ,FHT,TRM,TRM,Chinese,Jishui Middle School,กำลังศึกษา,TCAS 5,Mr.,China,2567,Male,Tourism Management,Tourism Management
+6330112102,MOU SLARK,ในประเทศ,FHT,TRM,TRM,Chinese,ขจรเกียรติศึกษา,กำลังศึกษา,MOU,Mr.,ภูเก็ต,2563,Male,Tourism Management,Tourism Management
+6730111072,MOU SLARK,ต่างประเทศ,FHT,HPM,HPM,Chinese,Ganxian Middle School,กำลังศึกษา,เทอม 2,Miss,China,2567,Female,Hospitality Management,Hospitality Management
+6730111065,MOU SLARK,ต่างประเทศ,FHT,HPM,HPM,Chinese,Ganzhou Middle School,กำลังศึกษา,TCAS 5,Miss,China,2567,Female,Hospitality Management,Hospitality Management
+6330111051,MOU SLARK,ต่างประเทศ,FHT,HPM,HPM,Chinese,Jiangxi University of Science and Technology  (JUST),กำลังศึกษา,MOU,Mr.,China,2563,Male,Hospitality Management,Hospitality Management
+6330111052,MOU SLARK,ต่างประเทศ,FHT,HPM,HPM,Chinese,Jiangxi University of Science and Technology  (JUST),กำลังศึกษา,MOU,Miss,China,2563,Female,Hospitality Management,Hospitality Management
+6330111053,MOU SLARK,ต่างประเทศ,FHT,HPM,HPM,Chinese,Jiangxi University of Science and Technology  (JUST),กำลังศึกษา,MOU,Miss,China,2563,Female,Hospitality Management,Hospitality Management
+6330111054,MOU SLARK,ต่างประเทศ,FHT,HPM,HPM,Chinese,Jiangxi University of Science and Technology  (JUST),กำลังศึกษา,MOU,Miss,China,2563,Female,Hospitality Management,Hospitality Management
+6330111055,MOU SLARK,ต่างประเทศ,FHT,HPM,HPM,Chinese,Jiangxi University of Science and Technology  (JUST),กำลังศึกษา,MOU,Miss,China,2563,Female,Hospitality Management,Hospitality Management
+6530111032,MOU SLARK,ต่างประเทศ,FHT,HPM,HPM,Chinese,Jiangxi University of Science and Technology  (JUST),กำลังศึกษา,MOU,Miss,China,2565,Female,Hospitality Management,Hospitality Management
+6630111037,MOU SLARK,ต่างประเทศ,FHT,HPM,HPM,Chinese,Jiangxi University of Science and Technology  (JUST),กำลังศึกษา,TCAS 5,Miss,China,2566,Female,Hospitality Management,Hospitality Management
+6630111036,MOU SLARK,ต่างประเทศ,FHT,HPM,HPM,Chinese,Jiangxi University of Science and Technology  (JUST),ลาพักการศึกษา,TCAS 5,Miss,China,2566,Female,Hospitality Management,Hospitality Management
+6430111037,MOU SLARK,ต่างประเทศ,FHT,HPM,HPM,Thai,Jiangxi University of Science and Technology  (JUST),กำลังศึกษา,MOU,Miss,China,2564,Female,Hospitality Management,Hospitality Management
+6330113011,MOU SLARK,ต่างประเทศ,FHT,SIM,SIM_BIM,Chinese,Jiangxi University of Science and Technology  (JUST),กำลังศึกษา,MOU,Mr.,China,2563,Male,Service Innovation Management and Business Innovation Management,Service Innovation Management
+6730112070,MOU SLARK,ต่างประเทศ,FHT,TRM,TRM,Chinese,Ganzhou Houde Foreign Languages School,กำลังศึกษา,TCAS 5,Miss,China,2567,Female,Tourism Management,Tourism Management
+6730112067,MOU SLARK,ต่างประเทศ,FHT,TRM,TRM,Chinese,Ganzhou No.1 High School,กำลังศึกษา,TCAS 5,Miss,China,2567,Female,Tourism Management,Tourism Management
+6330112103,MOU SLARK,ต่างประเทศ,FHT,TRM,TRM,Chinese,Jiangxi University of Science and Technology  (JUST),กำลังศึกษา,MOU,Miss,China,2563,Female,Tourism Management,Tourism Management
+6430112036,MOU SLARK,ต่างประเทศ,FHT,TRM,TRM,Chinese,Jiangxi University of Science and Technology  (JUST),กำลังศึกษา,MOU,Mr.,China,2564,Male,Tourism Management,Tourism Management
+6630112075,MOU SLARK,ต่างประเทศ,FHT,TRM,TRM,Chinese,Jiangxi University of Science and Technology  (JUST),กำลังศึกษา,TCAS 5,Miss,China,2566,Female,Tourism Management,Tourism Management
+6730112066,MOU SLARK,ต่างประเทศ,FHT,TRM,TRM,Chinese,Nanchang Bayi School,กำลังศึกษา,TCAS 5,Miss,China,2567,Female,Tourism Management,Tourism Management
+6730112068,MOU SLARK,ต่างประเทศ,FHT,TRM,TRM,Chinese,Shangyou Middle School,กำลังศึกษา,TCAS 5,Miss,China,2567,Female,Tourism Management,Tourism Management
+6730112073,MOU SXET,ต่างประเทศ,FHT,TRM,TRM,Chinese,Beijie Jinling Middle School,กำลังศึกษา,เทอม 2,Miss,China,2567,Female,Tourism Management,Tourism Management
+6730111067,MOU T-EDU,ต่างประเทศ,FHT,HPM,HPM,Chinese,"Nanxi No.1 Middle School of Yibin City, Sichuan Province",กำลังศึกษา,TCAS 5,Miss,China,2567,Female,Hospitality Management,Hospitality Management
+6730113025,Phuket International Admission,ในประเทศ,FHT,BIM,BIM,UKRAINE,Oak Meadow International school,กำลังศึกษา,เทอม 2,Miss,ภูเก็ต,2567,Female,Business Innovation Management,Business Innovation Management
+6730113013,Phuket International Admission,ต่างประเทศ,FHT,BIM,BIM,Thai,Penn Foster Highschool,กำลังศึกษา,TCAS 2,Miss,USA,2567,Female,Business Innovation Management,Business Innovation Management
+6530113017,Phuket International Admission,ในประเทศ,FHT,BIM,SIM_BIM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 2,Mr.,ภูเก็ต,2565,Male,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6530113023,Phuket International Admission,ในประเทศ,FHT,BIM,SIM_BIM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 4,Miss,ภูเก็ต,2565,Female,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6630111035,Phuket International Admission,ต่างประเทศ,FHT,HPM,HPM,Burmese,"No(1) Basic Education High School, Mahlaing",ไม่ได้ลงทะเบียนเรียน (พ้นสภาพฯ),TCAS 4,Miss,MYANMAR,2566,Female,Hospitality Management,Hospitality Management
+6730111045,Phuket International Admission,ต่างประเทศ,FHT,HPM,HPM,Chinese,Chengdu Golden Apple Jincheng No.1 Secondary School,กำลังศึกษา,TCAS 5,Miss,China,2567,Female,Hospitality Management,Hospitality Management
+6730111042,Phuket International Admission,ต่างประเทศ,FHT,HPM,HPM,Chinese,"Guanyi Middle School of Guandu District, Kunming City",กำลังศึกษา,TCAS 5,Miss,China,2567,Female,Hospitality Management,Hospitality Management
+6730111043,Phuket International Admission,ในประเทศ,FHT,HPM,HPM,Chinese,Headstart International School,กำลังศึกษา,TCAS 5,Miss,ภูเก็ต,2567,Female,Hospitality Management,Hospitality Management
+6630111024,Phuket International Admission,ในประเทศ,FHT,HPM,HPM,Thai,British International School Phuket,ตกออก (พ้นสภาพฯ),TCAS 5,Mr.,ภูเก็ต,2566,Male,Hospitality Management,Hospitality Management
+6630111020,Phuket International Admission,ในประเทศ,FHT,HPM,HPM,Thai,Phuket Academic Language School (Phuket Pals),กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2566,Female,Hospitality Management,Hospitality Management
+6630111021,Phuket International Admission,ในประเทศ,FHT,HPM,HPM,Thai,ขจรเกียรติศึกษา,กำลังศึกษา,TCAS 5,Miss,ภูเก็ต,2566,Female,Hospitality Management,Hospitality Management
+6730111041,Phuket International Admission,ในประเทศ,FHT,HPM,HPM,Thai,ขจรเกียรติศึกษา,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2567,Male,Hospitality Management,Hospitality Management
+6430111029,Phuket International Admission,ในประเทศ,FHT,HPM,HPM,Thai,ภูเก็ตวิทยาลัย,กำลังศึกษา,TCAS 4,Miss,ภูเก็ต,2564,Female,Hospitality Management,Hospitality Management
+6830111059,Phuket International Admission,ในประเทศ,FHT,IHM,IHM,Thai,กศน.เขตพญาไท,รอรายงานตัว,TCAS 2,Miss,กรุงเทพมหานคร,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111056,Phuket International Admission,ในประเทศ,FHT,IHM,IHM,Thai,กศน.อำเภอเมืองพิษณุโลก,รอรายงานตัว,TCAS 2,Miss,พิษณุโลก,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111041,Phuket International Admission,ในประเทศ,FHT,IHM,IHM,Thai,ขจรเกียรติศึกษา,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111057,Phuket International Admission,ในประเทศ,FHT,IHM,IHM,Thai,ขจรเกียรติศึกษา,รอรายงานตัว,TCAS 2,Mr.,ภูเก็ต,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111060,Phuket International Admission,ในประเทศ,FHT,IHM,IHM,Thai,ขจรเกียรติศึกษา,รอรายงานตัว,TCAS 2,Mr.,ภูเก็ต,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111058,Phuket International Admission,ในประเทศ,FHT,IHM,IHM,Thai,ภูเก็ตวิทยาลัย,รอรายงานตัว,TCAS 2,Mr.,ภูเก็ต,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830112084,Phuket International Admission,ในประเทศ,FHT,TAM,TAM,Thai,GED,รอรายงานตัว,TCAS 2,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112061,Phuket International Admission,ในประเทศ,FHT,TAM,TAM,Thai,เบญจมราชูทิศ,รอรายงานตัว,TCAS 1,Miss,นครศรีธรรมราช,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112085,Phuket International Admission,ในประเทศ,FHT,TAM,TAM,Thai,กศน.เขตพญาไท,รอรายงานตัว,TCAS 2,Mr.,กรุงเทพมหานคร,2568,Male,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112086,Phuket International Admission,ในประเทศ,FHT,TAM,TAM,Thai,สตรีภูเก็ต,รอรายงานตัว,TCAS 2,Mr.,ภูเก็ต,2568,Male,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6630112079,Phuket International Admission,ในประเทศ,FHT,TRM,TRM,Russian,Headstart International School,กำลังศึกษา,TCAS 5,Mr.,ภูเก็ต,2566,Male,Tourism Management,Tourism Management
+6730112048,Phuket International Admission,ในประเทศ,FHT,TRM,TRM,Thai,Saint John,ตกออก (พ้นสภาพฯ),TCAS 2,Mr.,กรุงเทพมหานคร,2567,Male,Tourism Management,Tourism Management
+6730113015,Phuket International Admission,ต่างประเทศ,FHT,BIM,BIM,FRENCH,QSI International School,กำลังศึกษา,TCAS 5,Mr.,FRANCE,2567,Male,Business Innovation Management,Business Innovation Management
+6530113026,Phuket International Admission,ต่างประเทศ,FHT,BIM,SIM_BIM,Russian,ไม่มีข้อมูล,ลาพักการศึกษา,เทอม 2,Miss,Russia,2565,Female,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6630111001,Phuket International Admission,ต่างประเทศ,FHT,HPM,HPM,American,ไม่มีข้อมูล,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 1,Mr.,USA,2566,Male,Hospitality Management,Hospitality Management
+6630111039,Phuket International Admission,ต่างประเทศ,FHT,HPM,HPM,Burmese,"NO (1) BASIC EDUCATION HIGH SCHOOL, AUNG NAN , MOGOK",กำลังศึกษา,TCAS 5,Miss,MYANMAR,2566,Female,Hospitality Management,Hospitality Management
+6630111023,Phuket International Admission,ต่างประเทศ,FHT,HPM,HPM,Burmese,"No(1) Basic Education High School, Mahlaing",กำลังศึกษา,TCAS 5,Miss,MYANMAR,2566,Female,Hospitality Management,Hospitality Management
+6430111038,Phuket International Admission,ต่างประเทศ,FHT,HPM,HPM,Chinese,Gan County Ganzhou City Jiangxi,กำลังศึกษา,TCAS 4,Mr.,China,2564,Male,Hospitality Management,Hospitality Management
+6530111033,Phuket International Admission,ต่างประเทศ,FHT,HPM,HPM,Chinese,Kunming NO.1 High School,กำลังศึกษา,เทอม 2,Mr.,China,2565,Male,Hospitality Management,Hospitality Management
+6630111025,Phuket International Admission,ในประเทศ,FHT,HPM,HPM,Chinese,Oak Meadow International school,กำลังศึกษา,TCAS 5,Miss,ภูเก็ต,2566,Female,Hospitality Management,Hospitality Management
+6730111068,Phuket International Admission,ต่างประเทศ,FHT,HPM,HPM,Chinese,Wenzao Ursuline University of Languages,กำลังศึกษา,เทอม 2,Miss,China,2567,Female,Hospitality Management,Hospitality Management
+6530111015,Phuket International Admission,ต่างประเทศ,FHT,HPM,HPM,LAOS,Souksavath College,กำลังศึกษา,TCAS 2,Miss,Lao,2565,Female,Hospitality Management,Hospitality Management
+6630111038,Phuket International Admission,ต่างประเทศ,FHT,HPM,HPM,Russian,Secondary School No.61,กำลังศึกษา,TCAS 5,Mr.,Russia,2566,Male,Hospitality Management,Hospitality Management
+6730111059,Phuket International Admission,ต่างประเทศ,FHT,HPM,HPM,UK,GED,กำลังศึกษา,TCAS 5,Mr.,UK,2567,Male,Hospitality Management,Hospitality Management
+6730111047,Phuket International Admission,ต่างประเทศ,FHT,HPM,HPM,USA,Headstart International School,กำลังศึกษา,TCAS 5,Mr.,USA,2567,Male,Hospitality Management,Hospitality Management
+6430111021,Phuket International Admission,ต่างประเทศ,FHT,HPM,HPM,Thai,GED,กำลังศึกษา,TCAS 2,Mr.,America,2564,Male,Hospitality Management,Hospitality Management
+6530111014,Phuket International Admission,ในประเทศ,FHT,HPM,HPM,Thai,GED,กำลังศึกษา,TCAS 2,Mr.,ภูเก็ต,2565,Male,Hospitality Management,Hospitality Management
+6430111033,Phuket International Admission,ต่างประเทศ,FHT,HPM,HPM,Thai,Khunming Guandu No.5 Middle School,กำลังศึกษา,TCAS 4,Mr.,China,2564,Male,Hospitality Management,Hospitality Management
+6630112050,Phuket International Admission,ต่างประเทศ,FHT,TRM,TRM,American,Central Texas College,กำลังศึกษา,TCAS 5,Mr.,USA,2566,Male,Tourism Management,Tourism Management
+6630112049,Phuket International Admission,ต่างประเทศ,FHT,TRM,TRM,Burmese,"NO (1) BASIC EDUCATION HIGH SCHOOL, AUNG NAN , MOGOK",โอนย้าย (พ้นสภาพฯ),TCAS 5,Miss,MYANMAR,2566,Female,Tourism Management,Tourism Management
+6430112027,Phuket International Admission,ต่างประเทศ,FHT,TRM,TRM,Chinese,Dalian Maple Leaf International School,กำลังศึกษา,TCAS 2,Miss,China,2564,Female,Tourism Management,Tourism Management
+6730112001,Phuket International Admission,ต่างประเทศ,FHT,TRM,TRM,Chinese,Jiangsu Jinhu Middle School,กำลังศึกษา,TCAS 5,Mr.,China,2567,Male,Tourism Management,Tourism Management
+6530112048,Phuket International Admission,ต่างประเทศ,FHT,TRM,TRM,Russian,"College of federal state budget educational institution of higher educational ""Russia",กำลังศึกษา,เทอม 2,Miss,Russia,2565,Female,Tourism Management,Tourism Management
+6530112047,Phuket International Admission,ในประเทศ,FHT,TRM,TRM,Russian,IGCSE,กำลังศึกษา,TCAS 4,Mr.,ภูเก็ต,2565,Male,Tourism Management,Tourism Management
+6530112036,Phuket International Admission,ในประเทศ,FHT,TRM,TRM,Thai,GED,กำลังศึกษา,TCAS 2,Miss,ภูเก็ต,2565,Female,Tourism Management,Tourism Management
+6230112085,Phuket International Admission,ต่างประเทศ,FHT,TRM,TRM,Thai,GED,ลาพักการศึกษา,TCAS 5,Miss,USA,2562,Female,Tourism Management,Tourism Management
+6530112037,Phuket International Admission,ต่างประเทศ,FHT,TRM,TRM,Thai,Japan College of Foreign Languages,รักษาสถานภาพ,TCAS 2,Miss,Japan,2565,Female,Tourism Management,Tourism Management
+6530113011,Proud to Be,ในประเทศ,FHT,BIM,SIM_BIM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2565,Female,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6530113012,Proud to Be,ในประเทศ,FHT,BIM,SIM_BIM,Thai,ขจรเกียรติศึกษา,ไม่ได้ลงทะเบียนเรียน (พ้นสภาพฯ),TCAS 1,Mr.,ภูเก็ต,2565,Male,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6530113014,Proud to Be,ในประเทศ,FHT,BIM,SIM_BIM,Thai,ขจรเกียรติศึกษา,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2565,Male,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6530113015,Proud to Be,ในประเทศ,FHT,BIM,SIM_BIM,Thai,ขจรเกียรติศึกษา,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2565,Male,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6530113013,Proud to Be,ในประเทศ,FHT,BIM,SIM_BIM,Thai,สตรีพัทลุง,ไม่ได้ลงทะเบียนเรียน (พ้นสภาพฯ),TCAS 1,Miss,พัทลุง,2565,Female,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6430111001,Proud to Be,ในประเทศ,FHT,HPM,HPM,Thai,อำมาตย์พานิชนุกูล,กำลังศึกษา,TCAS 1,Miss,กระบี่,2564,Female,Hospitality Management,Hospitality Management
+6430113002,Proud to Be,ในประเทศ,FHT,SIM,SIM_BIM,Thai,สุราษฎร์พิทยา,กำลังศึกษา,TCAS 1,Mr.,สุราษฎร์ธานี,2564,Male,Service Innovation Management and Business Innovation Management,Service Innovation Management
+6530112023,Proud to Be,ในประเทศ,FHT,TRM,TRM,Thai,ขจรเกียรติศึกษา,ไม่ได้ลงทะเบียนเรียน (พ้นสภาพฯ),TCAS 1,Mr.,ภูเก็ต,2565,Male,Tourism Management,Tourism Management
+6530112024,Proud to Be,ในประเทศ,FHT,TRM,TRM,Thai,ภูเก็ตไทยหัวอาเซียนวิทยา,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2565,Female,Tourism Management,Tourism Management
+6530112050,Proud to Be,ในประเทศ,FHT,TRM,TRM,Thai,ภูเก็ตไทยหัวอาเซียนวิทยา,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2565,Female,Tourism Management,Tourism Management
+6530112051,Proud to Be,ในประเทศ,FHT,TRM,TRM,Thai,ภูเก็ตไทยหัวอาเซียนวิทยา,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2565,Female,Tourism Management,Tourism Management
+6630113002,เด็กดีศรีปวช.,ในประเทศ,FHT,BIM,SIM_BIM,Thai,วิทยาลัยเทคโนโลยีภูเก็ต,ตกออก (พ้นสภาพฯ),TCAS 1,Mr.,ภูเก็ต,2566,Male,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6630113001,เด็กดีศรีปวช.,ในประเทศ,FHT,BIM,SIM_BIM,Thai,วิทยาลัยอาชีวศึกษาภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2566,Female,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6630113003,เด็กดีศรีปวช.,ในประเทศ,FHT,BIM,SIM_BIM,Thai,วิทยาลัยอาชีวศึกษาภูเก็ต,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2566,Male,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6830113016,เด็กดีศรีปวช.,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,วิทยาลัยอาชีวศึกษาภูเก็ต,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Business Innovation Management,Business Innovation Management
+6830113019,เด็กดีศรีปวช.,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,วิทยาลัยอาชีวศึกษาภูเก็ต,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Business Innovation Management,Business Innovation Management
+6730111037,เด็กดีศรีปวช.,ในประเทศ,FHT,HPM,HPM,Thai,วิทยาลัยเทคโนโลยีอุดมศึกษาพณิชยการ,กำลังศึกษา,TCAS 1,Miss,สงขลา,2567,Female,Hospitality Management,Hospitality Management
+6730111039,เด็กดีศรีปวช.,ในประเทศ,FHT,HPM,HPM,Thai,วิทยาลัยอาชีวศึกษาภูเก็ต,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 1,Mr.,ภูเก็ต,2567,Male,Hospitality Management,Hospitality Management
+6730111040,เด็กดีศรีปวช.,ในประเทศ,FHT,HPM,HPM,Thai,วิทยาลัยอาชีวศึกษาภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2567,Female,Hospitality Management,Hospitality Management
+6630111005,เด็กดีศรีปวช.,ในประเทศ,FHT,HPM,HPM,Thai,วิทยาลัยอาชีวศึกษาสุราษฎร์ธานี,กำลังศึกษา,TCAS 1,Miss,สุราษฎร์ธานี,2566,Female,Hospitality Management,Hospitality Management
+6630111004,เด็กดีศรีปวช.,ในประเทศ,FHT,HPM,HPM,Thai,ศูนย์การเรียนปัญญาภิวัฒน์หาดใหญ่,กำลังศึกษา,TCAS 1,Mr.,สงขลา,2566,Male,Hospitality Management,Hospitality Management
+6430111014,เด็กดีศรีปวช.,ในประเทศ,FHT,HPM,HPM,Thai,อาชีวศึกษาภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2564,Female,Hospitality Management,Hospitality Management
+6830111054,เด็กดีศรีปวช.,ในประเทศ,FHT,IHM,IHM,Thai,วิทยาลัยเทคนิคพัทลุง,รอรายงานตัว,TCAS 1,Mr.,พัทลุง,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111038,เด็กดีศรีปวช.,ในประเทศ,FHT,IHM,IHM,Thai,วิทยาลัยอาชีวศึกษานครศรีธรรมราช,รอรายงานตัว,TCAS 1,Miss,นครศรีธรรมราช,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111039,เด็กดีศรีปวช.,ในประเทศ,FHT,IHM,IHM,Thai,วิทยาลัยอาชีวศึกษานครศรีธรรมราช,รอรายงานตัว,TCAS 1,Miss,นครศรีธรรมราช,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111037,เด็กดีศรีปวช.,ในประเทศ,FHT,IHM,IHM,Thai,วิทยาลัยอาชีวศึกษาภูเก็ต,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111040,เด็กดีศรีปวช.,ในประเทศ,FHT,IHM,IHM,Thai,วิทยาลัยอาชีวศึกษาภูเก็ต,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830112076,เด็กดีศรีปวช.,ในประเทศ,FHT,TAM,TAM,Thai,ภูเก็ตเทคโนโลยี,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112077,เด็กดีศรีปวช.,ในประเทศ,FHT,TAM,TAM,Thai,วิทยาลัยเทคโนโลยีชลบุรีบริหารธุรกิจ,รอรายงานตัว,TCAS 1,Miss,ชลบุรี,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112059,เด็กดีศรีปวช.,ในประเทศ,FHT,TAM,TAM,Thai,วิทยาลัยเทคโนโลยีพณิชยการหาดใหญ่,รอรายงานตัว,TCAS 1,Miss,สงขลา,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112060,เด็กดีศรีปวช.,ในประเทศ,FHT,TAM,TAM,Thai,วิทยาลัยเทคโนโลยีภูเก็ต,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112078,เด็กดีศรีปวช.,ในประเทศ,FHT,TAM,TAM,Thai,วิทยาลัยเทคโนโลยีอุดมศึกษาพณิชยการ,รอรายงานตัว,TCAS 1,Miss,สงขลา,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6430112018,เด็กดีศรีปวช.,ในประเทศ,FHT,TRM,TRM,Thai,เทคโนโลยีอุดมศึกษาพณิชยการ,กำลังศึกษา,TCAS 1,Miss,สงขลา,2564,Female,Tourism Management,Tourism Management
+6430112019,เด็กดีศรีปวช.,ในประเทศ,FHT,TRM,TRM,Thai,เทคโนโลยีอุดมศึกษาพณิชยการ,กำลังศึกษา,TCAS 1,Mr.,สงขลา,2564,Male,Tourism Management,Tourism Management
+6630112002,เด็กดีศรีปวช.,ในประเทศ,FHT,TRM,TRM,Thai,วิทยาลัยเทคโนโลยีฐานเทคโนโลยี,กำลังศึกษา,TCAS 1,Miss,สมุทรสาคร,2566,Female,Tourism Management,Tourism Management
+6730112041,เด็กดีศรีปวช.,ในประเทศ,FHT,TRM,TRM,Thai,วิทยาลัยเทคนิคกระบี่,กำลังศึกษา,TCAS 1,Mr.,กระบี่,2567,Male,Tourism Management,Tourism Management
+6530112003,เด็กดีศรีปวช.,ในประเทศ,FHT,TRM,TRM,Thai,วิทยาลัยเทคนิคพัทลุง,กำลังศึกษา,TCAS 1,Mr.,พัทลุง,2565,Male,Tourism Management,Tourism Management
+6530112001,เด็กดีศรีปวช.,ในประเทศ,FHT,TRM,TRM,Thai,วิทยาลัยอาชีวศึกษาภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2565,Female,Tourism Management,Tourism Management
+6530112002,เด็กดีศรีปวช.,ในประเทศ,FHT,TRM,TRM,Thai,วิทยาลัยอาชีวศึกษาภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2565,Female,Tourism Management,Tourism Management
+6530112004,เด็กดีศรีปวช.,ในประเทศ,FHT,TRM,TRM,Thai,วิทยาลัยอาชีวศึกษาภูเก็ต,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2565,Male,Tourism Management,Tourism Management
+6630112001,เด็กดีศรีปวช.,ในประเทศ,FHT,TRM,TRM,Thai,วิทยาลัยอาชีวศึกษาภูเก็ต,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2566,Male,Tourism Management,Tourism Management
+6630112043,เด็กดีศรีปวช.,ในประเทศ,FHT,TRM,TRM,Thai,วิทยาลัยอาชีวศึกษาภูเก็ต,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2566,Male,Tourism Management,Tourism Management
+6730112039,เด็กดีศรีปวช.,ในประเทศ,FHT,TRM,TRM,Thai,วิทยาลัยอาชีวศึกษาภูเก็ต,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2567,Male,Tourism Management,Tourism Management
+6730112040,เด็กดีศรีปวช.,ในประเทศ,FHT,TRM,TRM,Thai,วิทยาลัยอาชีวศึกษาภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2567,Female,Tourism Management,Tourism Management
+6630112003,เด็กดีศรีปวช.,ในประเทศ,FHT,TRM,TRM,Thai,วิทยาลัยอาชีวศึกษาอุดรธานี,กำลังศึกษา,TCAS 1,Miss,อุดรธานี,2566,Female,Tourism Management,Tourism Management
+6430112014,เด็กดีศรีปวช.,ในประเทศ,FHT,TRM,TRM,Thai,อาชีวศึกษาภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2564,Female,Tourism Management,Tourism Management
+6430112017,เด็กดีศรีปวช.,ในประเทศ,FHT,TRM,TRM,Thai,อาชีวศึกษาภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2564,Female,Tourism Management,Tourism Management
+6730112042,เด็กดีศรีปวช.,ในประเทศ,FHT,TRM,TRM,Thai,อาชีวศึกษาภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2567,Female,Tourism Management,Tourism Management
+6430112016,เด็กดีศรีปวช.,ในประเทศ,FHT,TRM,TRM,Thai,อาชีวศึกษาภูเก็ต,รักษาสถานภาพ,TCAS 1,Mr.,ภูเก็ต,2564,Male,Tourism Management,Tourism Management
+6130112040,โควตา บรท,ในประเทศ,FHT,TRM,TRM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,ไม่ได้ลงทะเบียนเรียน (พ้นสภาพฯ),TCAS 1,Miss,ภูเก็ต,2561,Female,Tourism Management,Tourism Management
+6730113014,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,BIM,BIM,Thai,สตรีภูเก็ต,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 2,Miss,ภูเก็ต,2567,Female,Business Innovation Management,Business Innovation Management
+6530113018,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,BIM,SIM_BIM,Thai,หาดใหญ่วิทยาลัย 2,กำลังศึกษา,TCAS 2,Mr.,สงขลา,2565,Male,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6830113021,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,ขจรเกียรติศึกษา,รอรายงานตัว,TCAS 2,Mr.,ภูเก็ต,2568,Male,Business Innovation Management,Business Innovation Management
+6830113020,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,ภูเก็ตไทยหัวอาเซียนวิทยา,รอรายงานตัว,TCAS 2,Mr.,ภูเก็ต,2568,Male,Business Innovation Management,Business Innovation Management
+6630111033,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,HPM,HPM,Thai,เทศบาล 2 (วัดกะพังสุรินทร์),กำลังศึกษา,TCAS 3,Miss,ตรัง,2566,Female,Hospitality Management,Hospitality Management
+6630111031,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,HPM,HPM,Thai,เหนือคลองประชาบำรุง,กำลังศึกษา,TCAS 3,Mr.,กระบี่,2566,Male,Hospitality Management,Hospitality Management
+6630111030,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,HPM,HPM,Thai,แสงทองวิทยา,โอนย้าย (พ้นสภาพฯ),TCAS 3,Mr.,สงขลา,2566,Male,Hospitality Management,Hospitality Management
+6630111034,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,HPM,HPM,Thai,ไม่มีข้อมูล,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 3,Mr.,ภูเก็ต,2566,Male,Hospitality Management,Hospitality Management
+6330111031,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,HPM,HPM,Thai,ขจรเกียรติศึกษา,กำลังศึกษา,TCAS 2,Mr.,ภูเก็ต,2563,Male,Hospitality Management,Hospitality Management
+6730111044,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,HPM,HPM,Thai,ปัญญาวิทย์,กำลังศึกษา,TCAS 2,Miss,ตรัง,2567,Female,Hospitality Management,Hospitality Management
+6630111027,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,HPM,HPM,Thai,ภูเก็ตวิทยาลัย,กำลังศึกษา,TCAS 2,Miss,ภูเก็ต,2566,Female,Hospitality Management,Hospitality Management
+6630111028,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,HPM,HPM,Thai,มอ.วิทยานุสรณ์,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 2,Miss,สงขลา,2566,Female,Hospitality Management,Hospitality Management
+6630111032,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,HPM,HPM,Thai,มัธยมศึกษาปัตตานี,กำลังศึกษา,TCAS 3,Miss,ปัตตานี,2566,Female,Hospitality Management,Hospitality Management
+6630111029,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,HPM,HPM,Thai,หาดใหญ่วิทยาลัย 2,ไม่มาลงทะเบียน (พ้นสภาพฯ),TCAS 2,Miss,สงขลา,2566,Female,Hospitality Management,Hospitality Management
+6830111063,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,IHM,IHM,Thai,เบญจมราชูทิศ,รอรายงานตัว,TCAS 2,Miss,นครศรีธรรมราช,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111062,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,IHM,IHM,Thai,วรนารีเฉลิม จังหวัดสงขลา,รอรายงานตัว,TCAS 2,Mr.,สงขลา,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6330113004,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,SIM,SIM_BIM,Thai,หาดใหญ่รัฐประชาสรรค์,ไม่มาลงทะเบียน (พ้นสภาพฯ),TCAS 2,Miss,สงขลา,2563,Female,Service Innovation Management and Business Innovation Management,Service Innovation Management
+6830112088,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,TAM,TAM,Thai,ภูเก็ตวิทยาลัย,รอรายงานตัว,TCAS 2,Mr.,ภูเก็ต,2568,Male,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112087,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,TAM,TAM,Thai,หาดใหญ่วิทยาลัยสมบูรณ์กุลกันยา,รอรายงานตัว,TCAS 2,Miss,สงขลา,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6630112058,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,TRM,TRM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,ตกออก (พ้นสภาพฯ),TCAS 2,Miss,ภูเก็ต,2566,Female,Tourism Management,Tourism Management
+6730112050,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,TRM,TRM,Thai,ตัรกียะดุลอุมมะห์,กำลังศึกษา,TCAS 2,Miss,สตูล,2567,Female,Tourism Management,Tourism Management
+6630112055,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,TRM,TRM,Thai,ธิดาแม่พระ,กำลังศึกษา,TCAS 2,Miss,สุราษฎร์ธานี,2566,Female,Tourism Management,Tourism Management
+6630112056,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,TRM,TRM,Thai,นราธิวาส,กำลังศึกษา,TCAS 2,Miss,นราธิวาส,2566,Female,Tourism Management,Tourism Management
+6130112075,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,TRM,TRM,Thai,นิคมควนขนุนวิทยา,รักษาสถานภาพ,TCAS 2,Mr.,พัทลุง,2561,Male,Tourism Management,Tourism Management
+6230112054,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,TRM,TRM,Thai,มหาวชิราวุธ สงขลา,รักษาสถานภาพ,TCAS 2,Miss,สงขลา,2562,Female,Tourism Management,Tourism Management
+6630112057,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,TRM,TRM,Thai,รัตภูมิวิทยา,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 2,Miss,สงขลา,2566,Female,Tourism Management,Tourism Management
+6630112052,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,TRM,TRM,Thai,ศรีนครมูลนิธิ,ตกออก (พ้นสภาพฯ),TCAS 2,Miss,สงขลา,2566,Female,Tourism Management,Tourism Management
+6130112081,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,TRM,TRM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 2,Miss,ภูเก็ต,2561,Female,Tourism Management,Tourism Management
+6430112029,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,TRM,TRM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 2,Miss,ภูเก็ต,2564,Female,Tourism Management,Tourism Management
+6630112054,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,TRM,TRM,Thai,อัตตัรกียะห์อิสลามียะห์,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 2,Miss,นราธิวาส,2566,Female,Tourism Management,Tourism Management
+6730112049,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,TRM,TRM,Thai,อำมาตย์พานิชนุกูล,กำลังศึกษา,TCAS 2,Miss,กระบี่,2567,Female,Tourism Management,Tourism Management
+6630112053,คัดเลือกนักเรียนใน 14  จังหวัดภาคใต้,ในประเทศ,FHT,TRM,TRM,Thai,อุบลรัตนราชกัญญาราชวิทยาลัย พัทลุง,กำลังศึกษา,TCAS 2,Miss,พัทลุง,2566,Female,Tourism Management,Tourism Management
+6630112006,คุณธรรม จริยธรรม,ในประเทศ,FHT,TRM,TRM,Thai,มหาวชิราวุธ สงขลา,ลาออก (พ้นสภาพฯ),TCAS 1,Miss,สงขลา,2566,Female,Tourism Management,Tourism Management
+6530113025,นักเรียนที่มีผลการเรียนดี,ในประเทศ,FHT,BIM,SIM_BIM,Thai,ไม่มีข้อมูล,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2565,Female,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6630111019,นักเรียนที่มีผลการเรียนดี,ในประเทศ,FHT,HPM,HPM,Thai,สตรีทุ่งสง,กำลังศึกษา,TCAS 1,Miss,นครศรีธรรมราช,2566,Female,Hospitality Management,Hospitality Management
+6830111055,นักเรียนที่มีผลการเรียนดี,ในประเทศ,FHT,IHM,IHM,Thai,ภูเก็ตวิทยาลัย,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830112080,นักเรียนที่มีผลการเรียนดี,ในประเทศ,FHT,TAM,TAM,Thai,แสงทองวิทยา,รอรายงานตัว,TCAS 1,Mr.,สงขลา,2568,Male,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112081,นักเรียนที่มีผลการเรียนดี,ในประเทศ,FHT,TAM,TAM,Thai,ทุ่งสง,รอรายงานตัว,TCAS 1,Miss,นครศรีธรรมราช,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112079,นักเรียนที่มีผลการเรียนดี,ในประเทศ,FHT,TAM,TAM,Thai,ธรรมศาสตร์คลองหลวงวิทยาคม,รอรายงานตัว,TCAS 1,Miss,ปทุมธานี,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6630112005,นักเรียนที่มีผลการเรียนดี,ในประเทศ,FHT,TRM,TRM,Thai,กุดชุมวิทยาคม,กำลังศึกษา,TCAS 1,Miss,ยโสธร,2566,Female,Tourism Management,Tourism Management
+6430112020,นักเรียนที่มีผลการเรียนดี,ในประเทศ,FHT,TRM,TRM,Thai,ธิดานุเคราะห์,กำลังศึกษา,TCAS 1,Miss,สงขลา,2564,Female,Tourism Management,Tourism Management
+6630112004,นักเรียนที่มีผลการเรียนดี,ในประเทศ,FHT,TRM,TRM,Thai,พีระยานาวินคลองหินวิทยา,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 1,Miss,ปัตตานี,2566,Female,Tourism Management,Tourism Management
+6730112044,นักเรียนที่มีผลการเรียนดี,ในประเทศ,FHT,TRM,TRM,Thai,สุไหงโกลก,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 1,Miss,นราธิวาส,2567,Female,Tourism Management,Tourism Management
+6830111061,นักเรียนภาษาเด่น 14 จังหวัดภาคใต้,ในประเทศ,FHT,IHM,IHM,Thai,มุสลิมวิทยาภูเก็ต,รอรายงานตัว,TCAS 2,Miss,ภูเก็ต,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6530113001,ภาษาเด่น,ในประเทศ,FHT,BIM,SIM_BIM,Thai,ขจรเกียรติศึกษา,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2565,Female,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6730113023,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,BIM,Thai,Krabi International School,กำลังศึกษา,TCAS 1,Miss,กระบี่,2567,Female,Business Innovation Management,Business Innovation Management
+6730113002,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,BIM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,ตกออก (พ้นสภาพฯ),TCAS 1,Miss,ภูเก็ต,2567,Female,Business Innovation Management,Business Innovation Management
+6730113009,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,BIM,Thai,ขจรเกียรติศึกษา,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2567,Male,Business Innovation Management,Business Innovation Management
+6730113011,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,BIM,Thai,ขจรเกียรติศึกษา,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2567,Male,Business Innovation Management,Business Innovation Management
+6730113022,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,BIM,Thai,ดาวรุ่งวิทยา,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2567,Male,Business Innovation Management,Business Innovation Management
+6730113005,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,BIM,Thai,ทุ่งสง,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 1,Miss,นครศรีธรรมราช,2567,Female,Business Innovation Management,Business Innovation Management
+6730113003,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,BIM,Thai,พัทลุง,กำลังศึกษา,TCAS 1,Miss,พัทลุง,2567,Female,Business Innovation Management,Business Innovation Management
+6730113010,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,BIM,Thai,ภูเก็ตวิทยาลัย,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2567,Male,Business Innovation Management,Business Innovation Management
+6730113004,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,BIM,Thai,สตรีทุ่งสง,กำลังศึกษา,TCAS 1,Mr.,นครศรีธรรมราช,2567,Male,Business Innovation Management,Business Innovation Management
+6730113007,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,BIM,Thai,สตรีทุ่งสง,กำลังศึกษา,TCAS 1,Miss,นครศรีธรรมราช,2567,Female,Business Innovation Management,Business Innovation Management
+6730113008,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,BIM,Thai,สาธิตมหาวิทยาลัยราชภัฏภูเก็ต,ลาออก (พ้นสภาพฯ),TCAS 1,Mr.,ภูเก็ต,2567,Male,Business Innovation Management,Business Innovation Management
+6730113001,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,BIM,Thai,หาดใหญ่วิทยาลัย 2,กำลังศึกษา,TCAS 1,Miss,สงขลา,2567,Female,Business Innovation Management,Business Innovation Management
+6530113002,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,SIM_BIM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2565,Female,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6630113014,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,SIM_BIM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2566,Male,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6630113015,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,SIM_BIM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,ตกออก (พ้นสภาพฯ),TCAS 1,Mr.,ภูเก็ต,2566,Male,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6630113018,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,SIM_BIM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,ลาออก (พ้นสภาพฯ),TCAS 1,Mr.,ภูเก็ต,2566,Male,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6630113005,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,SIM_BIM,Thai,กะทู้วิทยา,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2566,Female,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6630113008,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,SIM_BIM,Thai,กะทู้วิทยา,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2566,Female,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6630113011,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,SIM_BIM,Thai,ขจรเกียรติศึกษา,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2566,Female,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6630113010,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,SIM_BIM,Thai,ขจรเกียรติศึกษา,รักษาสถานภาพ,TCAS 1,Miss,ภูเก็ต,2566,Female,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6630113012,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,SIM_BIM,Thai,ดาวรุ่งวิทยา,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2566,Male,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6530113003,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,SIM_BIM,Thai,ดีบุกพังงาวิทยายน,กำลังศึกษา,TCAS 1,Miss,พังงา,2565,Female,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6630113004,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,SIM_BIM,Thai,"ตะกั่วป่า ""เสนานุกูล""",กำลังศึกษา,TCAS 1,Mr.,พังงา,2566,Male,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6630113007,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,SIM_BIM,Thai,ภูเก็ตไทยหัวอาเซียนวิทยา,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2566,Male,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6630113017,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,SIM_BIM,Thai,วิทยาศาสตร์จุฬาภรณราชวิทยาลัย,กำลังศึกษา,TCAS 1,Miss,ตรัง,2566,Female,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6630113013,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,SIM_BIM,Thai,ศาสนูปถัมภ์,กำลังศึกษา,TCAS 1,Miss,ปัตตานี,2566,Female,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6530113004,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,SIM_BIM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2565,Female,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6530113008,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,SIM_BIM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2565,Female,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6530113005,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,SIM_BIM,Thai,สตรีภูเก็ต,รักษาสถานภาพ,TCAS 1,Miss,ภูเก็ต,2565,Female,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6630113016,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,SIM_BIM,Thai,หาดใหญ่วิทยาคาร,ไม่มาลงทะเบียน (พ้นสภาพฯ),TCAS 1,Miss,สงขลา,2566,Female,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6830113008,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Business Innovation Management,Business Innovation Management
+6830113015,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,Business Innovation Management,Business Innovation Management
+6830113009,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,เทศบาลปลูกปัญญา ในพระอุปถัมภ์ฯ,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,Business Innovation Management,Business Innovation Management
+6830113011,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,กาญจนาภิเษกวิทยาลัย กระบี่,รอรายงานตัว,TCAS 1,Miss,กระบี่,2568,Female,Business Innovation Management,Business Innovation Management
+6830113001,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,ขจรเกียรติศึกษา,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Business Innovation Management,Business Innovation Management
+6830113002,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,ขจรเกียรติศึกษา,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Business Innovation Management,Business Innovation Management
+6830113006,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,ขจรเกียรติศึกษา,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Business Innovation Management,Business Innovation Management
+6830113014,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,ขจรเกียรติศึกษา,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,Business Innovation Management,Business Innovation Management
+6830113017,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,ขจรเกียรติศึกษา,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Business Innovation Management,Business Innovation Management
+6830113003,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,ภูเก็ตไทยหัวอาเซียนวิทยา,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,Business Innovation Management,Business Innovation Management
+6830113005,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,ภูเก็ตไทยหัวอาเซียนวิทยา,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,Business Innovation Management,Business Innovation Management
+6830113004,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,ภูเก็ตวิทยาลัย,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,Business Innovation Management,Business Innovation Management
+6830113010,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,ส่งเสริมศาสนาวิทยามูลนิธิ,รอรายงานตัว,TCAS 1,Miss,สงขลา,2568,Female,Business Innovation Management,Business Innovation Management
+6830113012,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,ส่งเสริมศาสนาวิทยามูลนิธิ,รอรายงานตัว,TCAS 1,Miss,สงขลา,2568,Female,Business Innovation Management,Business Innovation Management
+6830113007,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,สตรีภูเก็ต,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Business Innovation Management,Business Innovation Management
+6830113013,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,สตรีภูเก็ต,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Business Innovation Management,Business Innovation Management
+6830113018,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIZ INNO,BIZ INNO,Thai,สตรีภูเก็ต,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,Business Innovation Management,Business Innovation Management
+6530111010,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,Headstart International School,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2565,Male,Hospitality Management,Hospitality Management
+6730111012,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,Krabi International School,โอนย้าย (พ้นสภาพฯ),TCAS 1,Miss,กระบี่,2567,Female,Hospitality Management,Hospitality Management
+6630111007,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 1,Miss,ภูเก็ต,2566,Female,Hospitality Management,Hospitality Management
+6230111025,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2562,Male,Hospitality Management,Hospitality Management
+6430111002,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2564,Male,Hospitality Management,Hospitality Management
+6630111015,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2566,Male,Hospitality Management,Hospitality Management
+6730111010,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2567,Male,Hospitality Management,Hospitality Management
+6730111031,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2567,Male,Hospitality Management,Hospitality Management
+6630111008,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ยะลา,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 1,Miss,ยะลา,2566,Female,Hospitality Management,Hospitality Management
+6730111016,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,เตรียมอุดมศึกษาพัฒนาการสุวรรณภูมิ,กำลังศึกษา,TCAS 1,Miss,กรุงเทพมหานคร,2567,Female,Hospitality Management,Hospitality Management
+6730111018,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,เตรียมอุดมศึกษาพัฒนาการสุวรรณภูมิ,กำลังศึกษา,TCAS 1,Miss,กรุงเทพมหานคร,2567,Female,Hospitality Management,Hospitality Management
+6530111007,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,เตรียมอุดมศึกษาภาคใต้,กำลังศึกษา,TCAS 1,Mr.,นครศรีธรรมราช,2565,Male,Hospitality Management,Hospitality Management
+6530111004,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,เมืองกระบี่,กำลังศึกษา,TCAS 1,Mr.,กระบี่,2565,Male,Hospitality Management,Hospitality Management
+6730111033,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,เมืองถลาง,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2567,Female,Hospitality Management,Hospitality Management
+6730111035,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,เมืองถลาง,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2567,Female,Hospitality Management,Hospitality Management
+6730111005,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,โยธินบำรุง,ไม่มาลงทะเบียน (พ้นสภาพฯ),TCAS 1,Miss,นครศรีธรรมราช,2567,Female,Hospitality Management,Hospitality Management
+6630111013,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,กศน.อำเภอกะทู้,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2566,Female,Hospitality Management,Hospitality Management
+6630111014,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,กศน.อำเภอกะทู้,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2566,Female,Hospitality Management,Hospitality Management
+6730111025,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,กะทู้วิทยา,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2567,Female,Hospitality Management,Hospitality Management
+6330111020,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,กัลยาณีศรีธรรมราช,กำลังศึกษา,TCAS 1,Miss,นครศรีธรรมราช,2563,Female,Hospitality Management,Hospitality Management
+6430111004,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ขจรเกียรติศึกษา,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2564,Female,Hospitality Management,Hospitality Management
+6430111008,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ขจรเกียรติศึกษา,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2564,Female,Hospitality Management,Hospitality Management
+6530111006,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ขจรเกียรติศึกษา,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2565,Female,Hospitality Management,Hospitality Management
+6530111012,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ขจรเกียรติศึกษา,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2565,Female,Hospitality Management,Hospitality Management
+6530111028,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ขจรเกียรติศึกษา,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2565,Female,Hospitality Management,Hospitality Management
+6530111029,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ขจรเกียรติศึกษา,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2565,Female,Hospitality Management,Hospitality Management
+6530111030,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ขจรเกียรติศึกษา,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2565,Female,Hospitality Management,Hospitality Management
+6530111031,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ขจรเกียรติศึกษา,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2565,Female,Hospitality Management,Hospitality Management
+6730111013,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,จุ๋งฮัวโซะเซียว,กำลังศึกษา,TCAS 1,Mr.,ตรัง,2567,Male,Hospitality Management,Hospitality Management
+6730111014,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,จุ๋งฮัวโซะเซียว,กำลังศึกษา,TCAS 1,Miss,ตรัง,2567,Female,Hospitality Management,Hospitality Management
+6630111017,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ดาวรุ่งวิทยา,โอนย้าย (พ้นสภาพฯ),TCAS 1,Mr.,ภูเก็ต,2566,Male,Hospitality Management,Hospitality Management
+6730111034,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ดาวรุ่งวิทยา,โอนย้าย (พ้นสภาพฯ),TCAS 1,Mr.,ภูเก็ต,2567,Male,Hospitality Management,Hospitality Management
+6730111028,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ดีบุกพังงาวิทยายน,กำลังศึกษา,TCAS 1,Mr.,พังงา,2567,Male,Hospitality Management,Hospitality Management
+6730111003,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ทัพพระยาพิทยา,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 1,Miss,สระแก้ว,2567,Female,Hospitality Management,Hospitality Management
+6730111001,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ทัพพระยาพิทยา,กำลังศึกษา,TCAS 1,Miss,สระเเก้ว,2567,Female,Hospitality Management,Hospitality Management
+6730111002,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ทัพพระยาพิทยา,กำลังศึกษา,TCAS 1,Mr.,สระแก้ว,2567,Male,Hospitality Management,Hospitality Management
+6630111018,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ทุ่งสง,ตกออก (พ้นสภาพฯ),TCAS 1,Miss,นครศรีธรรมราช,2566,Female,Hospitality Management,Hospitality Management
+6530111003,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ธิดาแม่พระ,กำลังศึกษา,TCAS 1,Miss,สุราษฎร์ธานี,2565,Female,Hospitality Management,Hospitality Management
+6630111016,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,บุญเหลือวิทยานุสรณ์,กำลังศึกษา,TCAS 1,Miss,นครราชสีมา,2566,Female,Hospitality Management,Hospitality Management
+6630111011,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ปราจีนกัลยาณี,ลาออก (พ้นสภาพฯ),TCAS 1,Mr.,ปราจีนบุรี,2566,Male,Hospitality Management,Hospitality Management
+6530111009,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,พลวิทยา,กำลังศึกษา,TCAS 1,Miss,สงขลา,2565,Female,Hospitality Management,Hospitality Management
+6730111032,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ภูเก็ตวิทยาลัย,ไม่มาลงทะเบียน (พ้นสภาพฯ),TCAS 1,Mr.,ภูเก็ต,2567,Male,Hospitality Management,Hospitality Management
+6430111010,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ภูเก็ตวิทยาลัย,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2564,Male,Hospitality Management,Hospitality Management
+6430111011,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ภูเก็ตวิทยาลัย,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2564,Male,Hospitality Management,Hospitality Management
+6630111010,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ภูเก็ตวิทยาลัย,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2566,Male,Hospitality Management,Hospitality Management
+6730111008,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ภูเก็ตวิทยาลัย,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2567,Male,Hospitality Management,Hospitality Management
+6730111019,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ภูเก็ตวิทยาลัย,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2567,Male,Hospitality Management,Hospitality Management
+6730111029,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ภูเก็ตวิทยาลัย,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2567,Male,Hospitality Management,Hospitality Management
+6530111002,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,มหาวชิราวุธ สงขลา,กำลังศึกษา,TCAS 1,Mr.,สงขลา,2565,Male,Hospitality Management,Hospitality Management
+6730111006,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,วังน้ำเย็นวิทยาคม,กำลังศึกษา,TCAS 1,Miss,สระแก้ว,2567,Female,Hospitality Management,Hospitality Management
+6630111006,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ศรีธรรมราชศึกษา,กำลังศึกษา,TCAS 1,Miss,นครศรีธรรมราช,2566,Female,Hospitality Management,Hospitality Management
+6730111064,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ศูนย์การศึกษานอกระบบและการศึกษาตามอัธยาศัยอำเภอเมืองภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2567,Female,Hospitality Management,Hospitality Management
+6730111020,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,สกลราชวิทยานุกูล,กำลังศึกษา,TCAS 1,Miss,สกลนคร,2567,Female,Hospitality Management,Hospitality Management
+6630111012,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,สตรีทุ่งสง,กำลังศึกษา,TCAS 1,Miss,นครศรีธรรมราช,2566,Female,Hospitality Management,Hospitality Management
+6730111017,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,สตรีทุ่งสง,กำลังศึกษา,TCAS 1,Miss,นครศรีธรรมราช,2567,Female,Hospitality Management,Hospitality Management
+6730111027,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,สตรีภูเก็ต,โอนย้าย (พ้นสภาพฯ),TCAS 1,Miss,ภูเก็ต,2567,Female,Hospitality Management,Hospitality Management
+6530111005,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2565,Female,Hospitality Management,Hospitality Management
+6530111011,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2565,Female,Hospitality Management,Hospitality Management
+6730111004,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2567,Male,Hospitality Management,Hospitality Management
+6730111007,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2567,Male,Hospitality Management,Hospitality Management
+6730111009,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2567,Female,Hospitality Management,Hospitality Management
+6730111023,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2567,Female,Hospitality Management,Hospitality Management
+6530111008,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,สามารถดีวิทยา,กำลังศึกษา,TCAS 1,Mr.,ปัตตานี,2565,Male,Hospitality Management,Hospitality Management
+6730111026,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,สายบุรีอิสลามวิทยา,กำลังศึกษา,TCAS 1,Miss,ปัตตานี,2567,Female,Hospitality Management,Hospitality Management
+6730111022,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,สิงห์สมุทร,กำลังศึกษา,TCAS 1,Mr.,ชลบุรี,2567,Male,Hospitality Management,Hospitality Management
+6630111009,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,สุราษฎร์พิทยา,กำลังศึกษา,TCAS 1,Miss,สุราษฎร์ธานี,2566,Female,Hospitality Management,Hospitality Management
+6430111009,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,ห้วยยอด,กำลังศึกษา,TCAS 1,Mr.,ตรัง,2564,Male,Hospitality Management,Hospitality Management
+6430111003,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,หาดใหญ่วิทยาลัย 2,กำลังศึกษา,TCAS 1,Miss,สงขลา,2564,Female,Hospitality Management,Hospitality Management
+6430111012,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,หาดใหญ่วิทยาลัยสมบูรณ์กุลกันยา,กำลังศึกษา,TCAS 1,Miss,สงขลา,2564,Female,Hospitality Management,Hospitality Management
+6730111036,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,หาดใหญ่วิทยาลัยสมบูรณ์กุลกันยา,กำลังศึกษา,TCAS 1,Miss,สงขลา,2567,Female,Hospitality Management,Hospitality Management
+6730111021,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,HPM,HPM,Thai,อำมาตย์พานิชนุกูล,กำลังศึกษา,TCAS 1,Miss,กระบี่,2567,Female,Hospitality Management,Hospitality Management
+6830111030,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111031,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111049,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111009,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,เทศบาลบ้านย่านยาว,รอรายงานตัว,TCAS 1,Miss,พังงา,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111043,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,เมืองถลาง,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111047,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,เมืองถลาง,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111051,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,เมืองถลาง,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111042,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,กะทู้วิทยา,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111046,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,กะทู้วิทยา,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111052,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,กะทู้วิทยา,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111007,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,กันตังพิทยากร,รอรายงานตัว,TCAS 1,Miss,ตรัง,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111008,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,กันตังพิทยากร,รอรายงานตัว,TCAS 1,Mr.,ตรัง,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111001,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,ขจรเกียรติศึกษา,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111004,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,ขจรเกียรติศึกษา,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111010,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,ขจรเกียรติศึกษา,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111015,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,ขจรเกียรติศึกษา,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111027,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,ขจรเกียรติศึกษา,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111016,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,ชะอวด,รอรายงานตัว,TCAS 1,Miss,นครศรีธรรมราช,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111044,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,ดารุสสาลาม,รอรายงานตัว,TCAS 1,Miss,นราธิวาส,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111019,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,ตะกั่วป่า(เสนานุกูล),รอรายงานตัว,TCAS 1,Miss,พังงา,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111023,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,ตะกั่วป่า(เสนานุกูล),รอรายงานตัว,TCAS 1,Miss,พังงา,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111032,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,"ทุ่งศุขลาพิทยา ""กรุงไทยอนุเคราะห์""",รอรายงานตัว,TCAS 1,Mr.,ชลบุรี,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111045,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,ประทีปศาสน์,รอรายงานตัว,TCAS 1,Miss,นครศรีธรรมราช,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111048,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,ปัญญาวิทย์,รอรายงานตัว,TCAS 1,Mr.,ตรัง,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111053,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,ปากพนัง,รอรายงานตัว,TCAS 1,Miss,นครศรีธรรมราช,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111035,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,พิมานพิทยาสรรค์,รอรายงานตัว,TCAS 1,Miss,สตูล,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111002,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,ภูเก็ตไทยหัวอาเซียนวิทยา,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111026,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,ภูเก็ตไทยหัวอาเซียนวิทยา,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111003,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,ภูเก็ตวิทยาลัย,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111006,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,ภูเก็ตวิทยาลัย,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111012,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,ภูเก็ตวิทยาลัย,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111021,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,ภูเก็ตวิทยาลัย,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111029,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,มหาวชิราวุธ จังหวัดสงขลา,รอรายงานตัว,TCAS 1,Miss,สงขลา,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111011,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,มัธยมจิตจัณ,รอรายงานตัว,TCAS 1,Miss,สงขลา,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111018,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,สตรีทุ่งสง,รอรายงานตัว,TCAS 1,Miss,นครศรีธรรมราช,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111005,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,สตรีภูเก็ต,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111013,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,สตรีภูเก็ต,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111020,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,สตรีภูเก็ต,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111022,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,สตรีภูเก็ต,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111025,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,สตรีภูเก็ต,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111034,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,สตรีภูเก็ต,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111050,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,สตรีภูเก็ต,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111014,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,สภาราชินี จังหวัดตรัง,รอรายงานตัว,TCAS 1,Miss,ตรัง,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111024,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,สภาราชินี จังหวัดตรัง,รอรายงานตัว,TCAS 1,Miss,ตรัง,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111033,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,สุราษฎร์ธานี,รอรายงานตัว,TCAS 1,Miss,สุราษฎร์ธานี,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111017,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,หาดใหญ่วิทยาลัย,รอรายงานตัว,TCAS 1,Miss,สงขลา,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111036,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,หาดใหญ่วิทยาลัย,รอรายงานตัว,TCAS 1,Mr.,สงขลา,2568,Male,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6830111028,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,IHM,IHM,Thai,อ่าวลึกประชาสรรค์,รอรายงานตัว,TCAS 1,Miss,กระบี่,2568,Female,"International Hotel, Event & Restaurant Management","International Hotel, Event & Restaurant Management"
+6430113006,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,SIM,SIM_BIM,Thai,ขจรเกียรติศึกษา,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2564,Female,Service Innovation Management and Business Innovation Management,Service Innovation Management
+6430113004,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,SIM,SIM_BIM,Thai,อำมาตย์พานิชนุกูล,กำลังศึกษา,TCAS 1,Miss,กระบี่,2564,Female,Service Innovation Management and Business Innovation Management,Service Innovation Management
+6830112051,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,GED,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112010,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112020,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112021,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112026,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112027,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112028,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112038,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112045,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112054,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112057,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112058,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112006,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,เทศบาล 5 วัดหัวป้อมนอก,รอรายงานตัว,TCAS 1,Miss,สงขลา,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112016,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,เทศบาลเมืองภูเก็ต,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112039,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,เทศบาลเมืองภูเก็ต,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112046,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,เทศบาลเมืองภูเก็ต,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112047,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,เทศบาลเมืองภูเก็ต,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112022,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,เทศบาลปลูกปัญญา ในพระอุปถัมภ์ฯ,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112074,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,เมืองถลาง,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112055,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,แสงทองวิทยา,รอรายงานตัว,TCAS 1,Mr.,สงขลา,2568,Male,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112025,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,แสงธรรมวิทยา นราธิวาส,รอรายงานตัว,TCAS 1,Mr.,นราธิวาส,2568,Male,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112048,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,กะทู้วิทยา,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112072,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,กะทู้วิทยา,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112001,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,กาญจนาภิเษกวิทยาลัย กระบี่,รอรายงานตัว,TCAS 1,Miss,กระบี่,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112002,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,กาญจนาภิเษกวิทยาลัย กระบี่,รอรายงานตัว,TCAS 1,Miss,กระบี่,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112024,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,กาญจนาภิเษกวิทยาลัย กระบี่,รอรายงานตัว,TCAS 1,Miss,กระบี่,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112015,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ดาวรุ่งวิทยา,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112017,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ดาวรุ่งวิทยา,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112042,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ดาวรุ่งวิทยา,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112064,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ดาวรุ่งวิทยา,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112066,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ดาวรุ่งวิทยา,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112067,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ดาวรุ่งวิทยา,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112049,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ดีบุกพังงาวิทยายน,รอรายงานตัว,TCAS 1,Miss,พังงา,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112053,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ดีบุกพังงาวิทยายน,รอรายงานตัว,TCAS 1,Mr.,พังงา,2568,Male,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112023,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ตะกั่วป่า(เสนานุกูล),รอรายงานตัว,TCAS 1,Miss,พังงา,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112036,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ตะกั่วป่า(เสนานุกูล),รอรายงานตัว,TCAS 1,Miss,พังงา,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112069,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ทุ่งสง,รอรายงานตัว,TCAS 1,Miss,นครศรีธรรมราช,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112070,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ทุ่งสง,รอรายงานตัว,TCAS 1,Miss,นครศรีธรรมราช,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112052,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ทุ่งสงวิทยา,รอรายงานตัว,TCAS 1,Miss,นครศรีธรรมราช,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112004,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ธรรมวิทยามูลนิธิ,รอรายงานตัว,TCAS 1,Miss,ยะลา,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112065,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,บางสวรรค์วิทยาคม,รอรายงานตัว,TCAS 1,Miss,สุราษฎร์ธานี,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112050,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,บ้านนาสาร,รอรายงานตัว,TCAS 1,Miss,สุราษฎร์ธานี,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112030,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ประทีปศาสน์,รอรายงานตัว,TCAS 1,Miss,นครศรีธรรมราช,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112033,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ประทีปศาสน์,รอรายงานตัว,TCAS 1,Miss,นครศรีธรรมราช,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112034,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ปัญญาวิทย์,รอรายงานตัว,TCAS 1,Miss,ตรัง,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112035,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ปัญญาวิทย์,รอรายงานตัว,TCAS 1,Miss,ตรัง,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112044,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,พิมานพิทยาสรรค์,รอรายงานตัว,TCAS 1,Mr.,สตูล,2568,Male,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112068,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,พิมานพิทยาสรรค์,รอรายงานตัว,TCAS 1,Miss,สตูล,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112071,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,พีระยานาวินคลองหินวิทยา,รอรายงานตัว,TCAS 1,Mr.,ปัตตานี,2568,Male,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112005,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ภูเก็ตไทยหัวอาเซียนวิทยา,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112011,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ภูเก็ตไทยหัวอาเซียนวิทยา,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112012,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ภูเก็ตไทยหัวอาเซียนวิทยา,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112013,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ภูเก็ตไทยหัวอาเซียนวิทยา,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112014,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ภูเก็ตไทยหัวอาเซียนวิทยา,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112018,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ภูเก็ตไทยหัวอาเซียนวิทยา,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112063,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,มหาวชิราวุธ จังหวัดสงขลา,รอรายงานตัว,TCAS 1,Miss,สงขลา,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112062,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ราชประชานุเคราะห์ 36,รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112003,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,วรนารีเฉลิม จังหวัดสงขลา,รอรายงานตัว,TCAS 1,Miss,สงขลา,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112007,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,วรนารีเฉลิม จังหวัดสงขลา,รอรายงานตัว,TCAS 1,Miss,สงขลา,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112009,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ศรีธรรมราชศึกษา,รอรายงานตัว,TCAS 1,Mr.,นครศรีธรรมราช,2568,Male,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112041,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,ศรีธรรมราชศึกษา,รอรายงานตัว,TCAS 1,Miss,นครศรีธรรมราช,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112037,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,สตรีทุ่งสง,รอรายงานตัว,TCAS 1,Miss,นครศรีธรรมราช,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112040,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,สตรีภูเก็ต,รอรายงานตัว,TCAS 1,Mr.,ภูเก็ต,2568,Male,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112056,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,สอาดเผดิมวิทยา,รอรายงานตัว,TCAS 1,Miss,ชุมพร,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112073,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,สุไหงโกลก,รอรายงานตัว,TCAS 1,Miss,นราธิวาส,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112029,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,สุราษฎร์ธานี,รอรายงานตัว,TCAS 1,Mr.,สุราษฎร์ธานี,2568,Male,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112019,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,หาดใหญ่วิทยาลัย,รอรายงานตัว,TCAS 1,Miss,สงขลา,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112075,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,หาดใหญ่วิทยาลัย,รอรายงานตัว,TCAS 1,Miss,สงขลา,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112008,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,หาดใหญ่วิทยาลัยสมบูรณ์กุลกันยา,รอรายงานตัว,TCAS 1,Miss,สงขลา,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112031,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,อบจ.บ้านตลาดเหนือ (วันครู 2502),รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112032,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,อบจ.บ้านตลาดเหนือ (วันครู 2502),รอรายงานตัว,TCAS 1,Miss,ภูเก็ต,2568,Female,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6830112043,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TAM,TAM,Thai,อำมาตย์พานิชนุกูล,รอรายงานตัว,TCAS 1,Mr.,กระบี่,2568,Male,Tourism & Aviation Business Management,Tourism & Aviation Business Management
+6730112034,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,Oak Meadow International school,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2567,Male,Tourism Management,Tourism Management
+6630112035,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 1,Miss,ภูเก็ต,2566,Female,Tourism Management,Tourism Management
+6430112003,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2564,Male,Tourism Management,Tourism Management
+6430112005,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2564,Female,Tourism Management,Tourism Management
+6430112010,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2564,Male,Tourism Management,Tourism Management
+6630112014,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2566,Female,Tourism Management,Tourism Management
+6730112015,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,เฉลิมพระเกียรติสมเด็จพระศรีนครินทร์ ภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2567,Female,Tourism Management,Tourism Management
+6530112006,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,เชียรใหญ่,กำลังศึกษา,TCAS 1,Miss,นครศรีธรรมราช,2565,Female,Tourism Management,Tourism Management
+6730112029,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,เทศบาลเมืองภูเก็ต,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 1,Mr.,ภูเก็ต,2567,Male,Tourism Management,Tourism Management
+6730112013,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,เทศบาลปลูกปัญญาในพระอุปถัมภ์ฯ,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2567,Female,Tourism Management,Tourism Management
+6630112030,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,แสงทองวิทยา,กำลังศึกษา,TCAS 1,Mr.,สงขลา,2566,Male,Tourism Management,Tourism Management
+6630112029,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,แสงธรรมวิทยาตรังมูลนิธิ,ตกออก (พ้นสภาพฯ),TCAS 1,Miss,ตรัง,2566,Female,Tourism Management,Tourism Management
+6730112016,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,กระบุรีวิทยา,กำลังศึกษา,TCAS 1,Miss,ระนอง,2567,Female,Tourism Management,Tourism Management
+6630112020,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,กัลยาณีศรีธรรมราช,กำลังศึกษา,TCAS 1,Miss,นครศรีธรรมราช,2566,Female,Tourism Management,Tourism Management
+6730112011,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ขจรเกียรติศึกษา,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2567,Female,Tourism Management,Tourism Management
+6730112012,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ขจรเกียรติศึกษา,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2567,Female,Tourism Management,Tourism Management
+6630112024,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ดาวรุ่งวิทยา,ไม่ได้ลงทะเบียนเรียน (พ้นสภาพฯ),TCAS 1,Miss,ภูเก็ต,2566,Female,Tourism Management,Tourism Management
+6730112035,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ดาวรุ่งวิทยา,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 1,Miss,ภูเก็ต,2567,Female,Tourism Management,Tourism Management
+6730112038,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ดาวรุ่งวิทยา,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 1,Miss,ภูเก็ต,2567,Female,Tourism Management,Tourism Management
+6630112076,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ดาวรุ่งวิทยา,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2566,Male,Tourism Management,Tourism Management
+6530112016,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ดีบุกพังงาวิทยายน,กำลังศึกษา,TCAS 1,Miss,พังงา,2565,Female,Tourism Management,Tourism Management
+6730112008,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ตรังคริสเตียนศึกษา,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 1,Miss,ตรัง,2567,Female,Tourism Management,Tourism Management
+6730112033,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,"ตะกั่วป่า ""เสนานุกูล""",ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 1,Miss,พังงา,2567,Female,Tourism Management,Tourism Management
+6330112032,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,"ตะกั่วป่า ""เสนานุกูล""",กำลังศึกษา,TCAS 1,Miss,พังงา,2563,Female,Tourism Management,Tourism Management
+6430112012,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,"ตะกั่วป่า ""เสนานุกูล""",กำลังศึกษา,TCAS 1,Miss,พังงา,2564,Female,Tourism Management,Tourism Management
+6630112008,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,"ตะกั่วป่า ""เสนานุกูล""",กำลังศึกษา,TCAS 1,Mr.,พังงา,2566,Male,Tourism Management,Tourism Management
+6630112009,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,"ตะกั่วป่า ""เสนานุกูล""",กำลังศึกษา,TCAS 1,Mr.,พังงา,2566,Male,Tourism Management,Tourism Management
+6630112010,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,"ตะกั่วป่า ""เสนานุกูล""",กำลังศึกษา,TCAS 1,Miss,พังงา,2566,Female,Tourism Management,Tourism Management
+6730112007,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ทับปุดวิทยา,ตกออก (พ้นสภาพฯ),TCAS 1,Mr.,พังงา,2567,Male,Tourism Management,Tourism Management
+6530112008,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ธิดาแม่พระ,กำลังศึกษา,TCAS 1,Miss,สุราษฎร์ธานี,2565,Female,Tourism Management,Tourism Management
+6630112021,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ธิดาแม่พระ กระบี่,กำลังศึกษา,TCAS 1,Miss,กระบี่,2566,Female,Tourism Management,Tourism Management
+6630112038,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,นวมินทราชินูทิศ เตรียมอุดมศึกษาพัฒนาการ,ตกออก (พ้นสภาพฯ),TCAS 1,Mr.,สมุทรปราการ,2566,Male,Tourism Management,Tourism Management
+6730112002,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ปัญญาวิทย์,กำลังศึกษา,TCAS 1,Mr.,ตรัง,2567,Male,Tourism Management,Tourism Management
+6730112005,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,พนมศึกษา,กำลังศึกษา,TCAS 1,Miss,สุราษฎร์ธานี,2567,Female,Tourism Management,Tourism Management
+6730112003,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,พัฒนาการศึกษา,กำลังศึกษา,TCAS 1,Miss,สงขลา,2567,Female,Tourism Management,Tourism Management
+6530112010,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,พัทลุง,กำลังศึกษา,TCAS 1,Mr.,พัทลุง,2565,Male,Tourism Management,Tourism Management
+6430112007,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,พิชัยรัตนาคาร,กำลังศึกษา,TCAS 1,Mr.,ระนอง,2564,Male,Tourism Management,Tourism Management
+6230112024,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,พิมานพิทยาสรรค์,ไม่ได้ลงทะเบียนเรียน (พ้นสภาพฯ),TCAS 1,Miss,สตูล,2562,Female,Tourism Management,Tourism Management
+6730112014,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,พิมานพิทยาสรรค์,กำลังศึกษา,TCAS 1,Miss,สตูล,2567,Female,Tourism Management,Tourism Management
+6630112034,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,พีระยานาวินคลองหินวิทยา,กำลังศึกษา,TCAS 1,Mr.,ปัตตานี,2566,Male,Tourism Management,Tourism Management
+6630112033,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ภูเก็ตไทยหัวอาเซียนวิทยา,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2566,Female,Tourism Management,Tourism Management
+6730112021,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ภูเก็ตไทยหัวอาเซียนวิทยา,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2567,Male,Tourism Management,Tourism Management
+6730112026,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ภูเก็ตไทยหัวอาเซียนวิทยา,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2567,Female,Tourism Management,Tourism Management
+6730112009,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ภูเก็ตไทยหัวอาเซียนวิทยา,ตกออก (พ้นสภาพฯ),TCAS 1,Mr.,ภูเก็ต,2567,Male,Tourism Management,Tourism Management
+6730112072,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ภูเก็ตไทยหัวอาเซียนวิทยา,ตกออก (พ้นสภาพฯ),TCAS 1,Miss,ภูเก็ต,2567,Female,Tourism Management,Tourism Management
+6630112036,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ภูเก็ตวิทยาลัย,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 1,Mr.,ภูเก็ต,2566,Male,Tourism Management,Tourism Management
+6530112011,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ภูเก็ตวิทยาลัย,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2565,Female,Tourism Management,Tourism Management
+6530112013,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ภูเก็ตวิทยาลัย,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2565,Male,Tourism Management,Tourism Management
+6630112015,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ภูเก็ตวิทยาลัย,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2566,Male,Tourism Management,Tourism Management
+6630112031,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ภูเก็ตวิทยาลัย,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2566,Female,Tourism Management,Tourism Management
+6430112013,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,มัธยมเปี่ยมรัก,กำลังศึกษา,TCAS 1,Miss,สุราษฎร์ธานี,2564,Female,Tourism Management,Tourism Management
+6730112025,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,มัธยมจิตจัณ,กำลังศึกษา,TCAS 1,Miss,สงขลา,2567,Female,Tourism Management,Tourism Management
+6730112023,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,มุสลิมวิทยาภูเก็ต,ไม่มาลงทะเบียน (พ้นสภาพฯ),TCAS 1,Miss,ภูเก็ต,2567,Female,Tourism Management,Tourism Management
+6430112002,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,มุสลิมวิทยาภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2564,Female,Tourism Management,Tourism Management
+6730112027,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,มุสลิมวิทยาภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2567,Female,Tourism Management,Tourism Management
+6730112030,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,มุสลิมวิทยาภูเก็ต,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2567,Male,Tourism Management,Tourism Management
+6130112008,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ศรีธรรมราชศึกษา,ไม่ได้ลงทะเบียนเรียน (พ้นสภาพฯ),TCAS 1,Miss,นครศรีธรรมราช,2561,Female,Tourism Management,Tourism Management
+6230112016,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ศรีธรรมราชศึกษา,กำลังศึกษา,TCAS 1,Miss,นครศรีธรรมราช,2562,Female,Tourism Management,Tourism Management
+6630112019,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ศรีธรรมราชศึกษา,กำลังศึกษา,TCAS 1,Miss,นครศรีธรรมราช,2566,Female,Tourism Management,Tourism Management
+6730112022,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ศรีธรรมราชศึกษา,กำลังศึกษา,TCAS 1,Miss,นครศรีธรรมราช,2567,Female,Tourism Management,Tourism Management
+6730112019,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ศึกษานารี,กำลังศึกษา,TCAS 1,Miss,กรุงเทพมหานคร,2567,Female,Tourism Management,Tourism Management
+6730112024,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ศูนย์การศึกษานอกระบบและการศึกษาตามอัธยาศัยอำเภอเมืองภูเก็ต,โอนย้าย (พ้นสภาพฯ),TCAS 1,Miss,ภูเก็ต,2567,Female,Tourism Management,Tourism Management
+6630112032,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ศูนย์การศึกษานอกระบบและการศึกษาตามอัธยาศัยอำเภอเมืองภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2566,Female,Tourism Management,Tourism Management
+6730112004,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ส่งเสริมศาสนาวิทยามูลนิธิ,กำลังศึกษา,TCAS 1,Miss,สงขลา,2567,Female,Tourism Management,Tourism Management
+6730112018,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,ส่งเสริมศาสนาวิทยามูลนิธิ,ลาออก (พ้นสภาพฯ),TCAS 1,Miss,สงขลา,2567,Female,Tourism Management,Tourism Management
+6630112041,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,สตรีเศรษฐบุตรบำเพ็ญ,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 1,Miss,กรุงเทพมหานคร,2566,Female,Tourism Management,Tourism Management
+6630112027,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,สตรีทุ่งสง,กำลังศึกษา,TCAS 1,Miss,นครศรีธรรมราช,2566,Female,Tourism Management,Tourism Management
+6730112010,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,สตรีทุ่งสง,กำลังศึกษา,TCAS 1,Miss,นครศรีธรรมราช,2567,Female,Tourism Management,Tourism Management
+6630112018,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,สตรีทุ่งสง,ตกออก (พ้นสภาพฯ),TCAS 1,Miss,นครศรีธรรมราช,2566,Female,Tourism Management,Tourism Management
+6430112001,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2564,Female,Tourism Management,Tourism Management
+6430112008,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2564,Female,Tourism Management,Tourism Management
+6430112009,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2564,Female,Tourism Management,Tourism Management
+6430112011,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2564,Female,Tourism Management,Tourism Management
+6530112012,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2565,Male,Tourism Management,Tourism Management
+6530112015,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2565,Female,Tourism Management,Tourism Management
+6630112007,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2566,Male,Tourism Management,Tourism Management
+6630112025,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2566,Female,Tourism Management,Tourism Management
+6630112026,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2566,Male,Tourism Management,Tourism Management
+6630112037,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2566,Female,Tourism Management,Tourism Management
+6730112006,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2567,Male,Tourism Management,Tourism Management
+6730112031,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 1,Mr.,ภูเก็ต,2567,Male,Tourism Management,Tourism Management
+6730112032,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2567,Female,Tourism Management,Tourism Management
+6730112051,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,สตรีภูเก็ต,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2567,Female,Tourism Management,Tourism Management
+6730112020,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,สตูลวิทยา,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 1,Miss,สตูล,2567,Female,Tourism Management,Tourism Management
+6730112028,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,สตูลวิทยา,ไม่มารายงานตัว (พ้นสภาพฯ),TCAS 1,Miss,สตูล,2567,Female,Tourism Management,Tourism Management
+6630112023,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,สอาดเผดิมวิทยา,กำลังศึกษา,TCAS 1,Miss,ชุมพร,2566,Female,Tourism Management,Tourism Management
+6630112017,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,สุราษฎร์ธานี,กำลังศึกษา,TCAS 1,Mr.,สุราษฎร์ธานี,2566,Male,Tourism Management,Tourism Management
+6630112022,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,สุราษฎร์ธานี 2,กำลังศึกษา,TCAS 1,Miss,สุราษฎร์ธานี,2566,Female,Tourism Management,Tourism Management
+6630112012,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,หาดใหญ่รัฐประชาสรรค์,กำลังศึกษา,TCAS 1,Miss,สงขลา,2566,Female,Tourism Management,Tourism Management
+6630112039,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,หาดใหญ่รัฐประชาสรรค์,กำลังศึกษา,TCAS 1,Miss,สงขลา,2566,Female,Tourism Management,Tourism Management
+6730112037,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,หาดใหญ่รัฐประชาสรรค์,กำลังศึกษา,TCAS 1,Miss,สงขลา,2567,Female,Tourism Management,Tourism Management
+6630112042,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,หาดใหญ่รัฐประชาสรรค์,ลาออก (พ้นสภาพฯ),TCAS 1,Miss,สงขลา,2566,Female,Tourism Management,Tourism Management
+6630112016,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,หาดใหญ่วิทยาคาร,กำลังศึกษา,TCAS 1,Mr.,สงขลา,2566,Male,Tourism Management,Tourism Management
+6630112013,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,หาดใหญ่วิทยาลัยสมบูรณ์กุลกันยา,กำลังศึกษา,TCAS 1,Miss,สงขลา,2566,Female,Tourism Management,Tourism Management
+6430112004,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,TRM,TRM,Thai,อ่าวลึกประชาสรรค์,ไม่ได้ลงทะเบียนเรียน (พ้นสภาพฯ),TCAS 1,Miss,กระบี่,2564,Female,Tourism Management,Tourism Management
+6630113009,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ในประเทศ,FHT,BIM,SIM_BIM,Thai,GED,กำลังศึกษา,TCAS 1,Miss,ภูเก็ต,2566,Female,Service Innovation Management and Business Innovation Management,Business Innovation Management
+6730111024,ม.อ. ภูเก็ตมุ่งมั่นตั้งใจดี,ต่างประเทศ,FHT,HPM,HPM,Thai,GED,กำลังศึกษา,TCAS 1,Miss,USA,2567,Female,Hospitality Management,Hospitality Management
